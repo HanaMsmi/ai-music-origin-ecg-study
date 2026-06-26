@@ -1,0 +1,26 @@
+participant_id,nationality,age,music_training_years,music_listening_frequency,music_knowledge,ai_familiarity,knowingly_heard_ai_music,used_music_generation_tool,attitude_ai_music,ai_creativity,notes,valid_participant,test_user
+5NAQJ3,Russian,35-39,0,Many times per day,Moderately,Quite a lot,No,No,Quite a lot,Quite a lot,10s fixation periods for this participant which is different from others who had 30s fixation times,False,False
+2RCVGN,S,Unknown,s,A few times per week,Moderately,Moderately,No,No,Moderately,Moderately,,False,True
+9FRRF6,Indian,25–29,0,Daily,Very little,Moderately,No,No,Very little,Slightly,,True,False
+4XU4M9,Indian,18–24,0,Many times per day,Slightly,Moderately,No,No,Quite a lot,Quite a lot,,True,False
+GKQ4V7,Indian,18–24,0,Rarely,Moderately,Slightly,No,No,Moderately,Moderately,,True,False
+E5KGNR,C C,Unknown,dxj,A few times per week,Not at all,Not at all,Not sure,No,Very little,Not at all,,False,True
+P7M2VU,Iranian,25–29,0,Daily,Moderately,Moderately,Yes,No,Moderately,Quite a lot,,True,False
+37X57U,Iranian,18–24,3,Daily,Quite a lot,Very much,Yes,No,Quite a lot,Very much,,True,False
+BX57PN,Iranian,25–29,0,Daily,Very little,Moderately,Yes,Yes,Very little,Slightly,[REVIEW] the participant coughed when there was about two minutes left,True,False
+RQLMGW,Indian,25–29,0,A few times per week,Moderately,Moderately,No,No,Moderately,Quite a lot,,True,False
+VNTXA6,Indian,18–24,0,Daily,Moderately,Moderately,No,No,Not at all,Not at all,,True,False
+SWEPBP,Indian,18–24,0,A few times per week,Moderately,Slightly,No,No,Slightly,Slightly,,True,False
+JGNUMT,Indian,18–24,1,A few times per week,Quite a lot,Moderately,Not sure,No,Very little,Slightly,,True,False
+C5C7VS,Indian,18–24,12,Daily,Very much,Very much,Not sure,No,Quite a lot,Quite a lot,,True,False
+NVTK75,Indian,18–24,3,A few times per week,Moderately,Slightly,No,No,Very much,Quite a lot,,True,False
+KD5ZFN,Chinese,25–29,0,Daily,Slightly,Moderately,Yes,No,Very little,Very little,[REVIEW] Door slam at around 13:50,True,False
+PXS7AX,Mexican,25–29,0,Many times per day,Moderately,Slightly,No,No,Not at all,Not at all,[REVIEW] Missed some song labels on-time. the participant had some movements at around 14:51,False,False
+25DLWY,South Korean,18–24,10,Daily,Quite a lot,Not at all,Not sure,No,Moderately,Very little,[REVIEW] Door slam at around 15:41,True,False
+57B9UE,Chinese,18–24,0,Daily,Slightly,Slightly,No,No,Slightly,Slightly,,True,False
+3U84EL,Russian,18–24,2,Daily,Slightly,Moderately,Yes,No,Slightly,Slightly,,True,False
+WQXDGF,Nepali,25–29,none,Many times per day,Moderately,Quite a lot,Yes,No,Slightly,Moderately,,True,False
+U6J9VR,Indian,18–24,3,Daily,Slightly,Quite a lot,No,No,Not at all,Not at all,,True,False
+MBCFCZ,Indian,25–29,0,Daily,Moderately,Moderately,No,No,Quite a lot,Quite a lot,,True,False
+9WBNKV,Chinese,18–24,14,Many times per day,Quite a lot,Quite a lot,Yes,No,Very little,Moderately,,True,False
+ZSREG4,Indian,18–24,0,Rarely,Moderately,Quite a lot,No,No,Very much,Very much,[REVIEW] Door slam at around 16:30,True,False

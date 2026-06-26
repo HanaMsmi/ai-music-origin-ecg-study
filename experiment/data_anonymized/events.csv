@@ -1,0 +1,1089 @@
+local_time,participant_id,phase,trial_index,event,song_file,true_origin,shown_origin,mislabeled,details
+2026-06-14T14:13:37.686,5NAQJ3,initial_questionnaire,,initial_questionnaire_submitted,,,,,
+2026-06-14T14:13:37.693,5NAQJ3,practice,,practice_started,,,,,
+2026-06-14T14:14:39.848,5NAQJ3,practice,,practice_fixation_completed,,,,,
+2026-06-14T14:14:43.589,5NAQJ3,practice,0.0,song_listen_started,stimuli/practice/sample.mp3,AI-generated,Human composed,True,
+2026-06-14T14:14:46.822,5NAQJ3,practice,0.0,origin_shown,stimuli/practice/sample.mp3,AI-generated,Human composed,True,midpoint_seconds=3.213
+2026-06-14T14:14:51.558,5NAQJ3,practice,0.0,song_listen_finished,stimuli/practice/sample.mp3,AI-generated,Human composed,True,elapsed=7.955
+2026-06-14T14:15:32.506,5NAQJ3,practice,,practice_questionnaire_completed,,,,,Practice answers were not saved.
+2026-06-14T14:15:35.241,5NAQJ3,practice,,practice_finished,,,,,
+2026-06-14T14:15:42.070,5NAQJ3,main,,main_experiment_started,,,,,
+2026-06-14T14:15:42.070,5NAQJ3,main,1.0,fixation_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-14T14:15:52.073,5NAQJ3,main,1.0,fixation_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-14T14:15:52.146,5NAQJ3,main,1.0,song_listen_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-14T14:17:35.218,5NAQJ3,main,1.0,origin_shown,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,midpoint_seconds=103.056
+2026-06-14T14:19:19.637,5NAQJ3,main,1.0,song_listen_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,elapsed=207.488
+2026-06-14T14:19:42.208,5NAQJ3,main,1.0,song_questionnaire_submitted,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-14T14:19:42.208,5NAQJ3,main,2.0,fixation_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-14T14:19:52.212,5NAQJ3,main,2.0,fixation_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-14T14:19:52.286,5NAQJ3,main,2.0,song_listen_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-14T14:21:40.825,5NAQJ3,main,2.0,origin_shown,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,midpoint_seconds=108.516
+2026-06-14T14:23:30.538,5NAQJ3,main,2.0,song_listen_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,elapsed=218.249
+2026-06-14T14:24:11.036,5NAQJ3,main,2.0,song_questionnaire_submitted,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-14T14:24:11.036,5NAQJ3,main,3.0,fixation_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-14T14:24:21.038,5NAQJ3,main,3.0,fixation_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-14T14:24:21.083,5NAQJ3,main,3.0,song_listen_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-14T14:25:42.101,5NAQJ3,main,3.0,origin_shown,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,midpoint_seconds=81.012
+2026-06-14T14:27:04.639,5NAQJ3,main,3.0,song_listen_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,elapsed=163.553
+2026-06-14T14:27:29.198,5NAQJ3,main,3.0,song_questionnaire_submitted,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-14T14:27:29.198,5NAQJ3,main,4.0,fixation_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-14T14:27:39.202,5NAQJ3,main,4.0,fixation_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-14T14:27:39.275,5NAQJ3,main,4.0,song_listen_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-14T14:29:16.284,5NAQJ3,main,4.0,origin_shown,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,midpoint_seconds=96.996
+2026-06-14T14:30:54.665,5NAQJ3,main,4.0,song_listen_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,elapsed=195.387
+2026-06-14T14:31:14.268,5NAQJ3,main,4.0,song_questionnaire_submitted,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-14T14:31:14.268,5NAQJ3,main,5.0,fixation_started,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-14T14:31:24.270,5NAQJ3,main,5.0,fixation_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-14T14:31:24.345,5NAQJ3,main,5.0,song_listen_started,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-14T14:33:43.555,5NAQJ3,main,5.0,origin_shown,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,midpoint_seconds=139.200
+2026-06-14T14:36:03.912,5NAQJ3,main,5.0,song_listen_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,elapsed=279.563
+2026-06-14T14:36:21.338,5NAQJ3,main,5.0,song_questionnaire_submitted,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-14T14:36:21.338,5NAQJ3,main,6.0,fixation_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-14T14:36:31.341,5NAQJ3,main,6.0,fixation_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-14T14:36:31.414,5NAQJ3,main,6.0,song_listen_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-14T14:38:18.557,5NAQJ3,main,6.0,origin_shown,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,midpoint_seconds=107.136
+2026-06-14T14:40:06.945,5NAQJ3,main,6.0,song_listen_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,elapsed=215.527
+2026-06-14T14:40:26.474,5NAQJ3,main,6.0,song_questionnaire_submitted,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-14T14:40:26.474,5NAQJ3,main,,main_experiment_finished,,,,,
+2026-06-14T14:43:38.638,2RCVGN,initial_questionnaire,,initial_questionnaire_submitted,,,,,
+2026-06-14T14:43:38.640,2RCVGN,practice,,practice_started,,,,,
+2026-06-14T14:43:44.693,2RCVGN,practice,,practice_fixation_completed,,,,,
+2026-06-14T14:43:48.628,2RCVGN,practice,0.0,song_listen_started,stimuli/practice/sample.mp3,AI-generated,Human composed,True,
+2026-06-14T14:43:51.810,2RCVGN,practice,0.0,origin_shown,stimuli/practice/sample.mp3,AI-generated,Human composed,True,midpoint_seconds=3.213
+2026-06-14T14:43:56.581,2RCVGN,practice,0.0,song_listen_finished,stimuli/practice/sample.mp3,AI-generated,Human composed,True,elapsed=8.003
+2026-06-14T14:44:00.142,2RCVGN,practice,,practice_questionnaire_completed,,,,,Practice answers were not saved.
+2026-06-14T14:44:01.026,2RCVGN,practice,,practice_finished,,,,,
+2026-06-14T14:44:01.799,2RCVGN,main,,main_experiment_started,,,,,
+2026-06-14T14:44:01.800,2RCVGN,main,1.0,fixation_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-14T14:44:31.801,2RCVGN,main,1.0,fixation_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-14T14:44:31.871,2RCVGN,main,1.0,song_listen_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-14T14:56:42.739,9FRRF6,initial_questionnaire,,initial_questionnaire_submitted,,,,,
+2026-06-14T14:56:42.742,9FRRF6,practice,,practice_started,,,,,
+2026-06-14T14:57:31.892,9FRRF6,practice,,practice_fixation_completed,,,,,
+2026-06-14T14:57:38.635,9FRRF6,practice,0.0,song_listen_started,stimuli/practice/sample.mp3,AI-generated,Human composed,True,
+2026-06-14T14:57:41.859,9FRRF6,practice,0.0,origin_shown,stimuli/practice/sample.mp3,AI-generated,Human composed,True,midpoint_seconds=3.213
+2026-06-14T14:57:46.580,9FRRF6,practice,0.0,song_listen_finished,stimuli/practice/sample.mp3,AI-generated,Human composed,True,elapsed=7.945
+2026-06-14T14:58:27.739,9FRRF6,practice,,practice_questionnaire_completed,,,,,Practice answers were not saved.
+2026-06-14T14:58:29.356,9FRRF6,practice,,practice_finished,,,,,
+2026-06-14T14:58:35.438,9FRRF6,main,,main_experiment_started,,,,,
+2026-06-14T14:58:35.439,9FRRF6,main,1.0,fixation_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-14T14:59:05.442,9FRRF6,main,1.0,fixation_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-14T14:59:05.514,9FRRF6,main,1.0,song_listen_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-14T15:00:42.520,9FRRF6,main,1.0,origin_shown,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,midpoint_seconds=96.996
+2026-06-14T15:02:20.531,9FRRF6,main,1.0,song_listen_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,elapsed=195.017
+2026-06-14T15:02:53.520,9FRRF6,main,1.0,song_questionnaire_submitted,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-14T15:02:53.520,9FRRF6,main,2.0,fixation_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-14T15:03:23.523,9FRRF6,main,2.0,fixation_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-14T15:03:23.595,9FRRF6,main,2.0,song_listen_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-14T15:05:10.745,9FRRF6,main,2.0,origin_shown,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,midpoint_seconds=107.136
+2026-06-14T15:06:59.257,9FRRF6,main,2.0,song_listen_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,elapsed=215.662
+2026-06-14T15:07:39.486,9FRRF6,main,2.0,song_questionnaire_submitted,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-14T15:07:39.487,9FRRF6,main,3.0,fixation_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-14T15:08:09.489,9FRRF6,main,3.0,fixation_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-14T15:08:09.562,9FRRF6,main,3.0,song_listen_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-14T15:09:58.085,9FRRF6,main,3.0,origin_shown,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,midpoint_seconds=108.516
+2026-06-14T15:11:48.069,9FRRF6,main,3.0,song_listen_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,elapsed=218.507
+2026-06-14T15:12:26.517,9FRRF6,main,3.0,song_questionnaire_submitted,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-14T15:12:26.518,9FRRF6,main,4.0,fixation_started,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-14T15:12:56.520,9FRRF6,main,4.0,fixation_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-14T15:12:56.563,9FRRF6,main,4.0,song_listen_started,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-14T15:15:15.805,9FRRF6,main,4.0,origin_shown,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,midpoint_seconds=139.200
+2026-06-14T15:17:36.535,9FRRF6,main,4.0,song_listen_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,elapsed=279.948
+2026-06-14T15:18:00.525,9FRRF6,main,4.0,song_questionnaire_submitted,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-14T15:18:00.525,9FRRF6,main,5.0,fixation_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-14T15:18:30.529,9FRRF6,main,5.0,fixation_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-14T15:18:30.596,9FRRF6,main,5.0,song_listen_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-14T15:19:51.629,9FRRF6,main,5.0,origin_shown,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,midpoint_seconds=81.012
+2026-06-14T15:21:14.193,9FRRF6,main,5.0,song_listen_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,elapsed=163.595
+2026-06-14T15:21:33.358,9FRRF6,main,5.0,song_questionnaire_submitted,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-14T15:21:33.359,9FRRF6,main,6.0,fixation_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-14T15:22:03.363,9FRRF6,main,6.0,fixation_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-14T15:22:03.435,9FRRF6,main,6.0,song_listen_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-14T15:23:46.504,9FRRF6,main,6.0,origin_shown,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,midpoint_seconds=103.056
+2026-06-14T15:25:30.691,9FRRF6,main,6.0,song_listen_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,elapsed=207.254
+2026-06-14T15:25:48.592,9FRRF6,main,6.0,song_questionnaire_submitted,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-14T15:25:48.593,9FRRF6,main,,main_experiment_finished,,,,,
+2026-06-14T15:32:46.174,4XU4M9,initial_questionnaire,,initial_questionnaire_submitted,,,,,
+2026-06-14T15:32:46.176,4XU4M9,practice,,practice_started,,,,,
+2026-06-14T15:33:11.217,4XU4M9,practice,,practice_fixation_completed,,,,,
+2026-06-14T15:33:19.112,4XU4M9,practice,0.0,song_listen_started,stimuli/practice/sample.mp3,AI-generated,Human composed,True,
+2026-06-14T15:33:22.337,4XU4M9,practice,0.0,origin_shown,stimuli/practice/sample.mp3,AI-generated,Human composed,True,midpoint_seconds=3.213
+2026-06-14T15:33:27.102,4XU4M9,practice,0.0,song_listen_finished,stimuli/practice/sample.mp3,AI-generated,Human composed,True,elapsed=7.989
+2026-06-14T15:34:08.207,4XU4M9,practice,,practice_questionnaire_completed,,,,,Practice answers were not saved.
+2026-06-14T15:34:10.190,4XU4M9,practice,,practice_finished,,,,,
+2026-06-14T15:34:11.673,4XU4M9,main,,main_experiment_started,,,,,
+2026-06-14T15:34:11.673,4XU4M9,main,1.0,fixation_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-14T15:34:41.676,4XU4M9,main,1.0,fixation_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-14T15:34:41.748,4XU4M9,main,1.0,song_listen_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-14T15:36:24.809,4XU4M9,main,1.0,origin_shown,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,midpoint_seconds=103.056
+2026-06-14T15:38:09.381,4XU4M9,main,1.0,song_listen_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,elapsed=207.632
+2026-06-14T15:38:50.760,4XU4M9,main,1.0,song_questionnaire_submitted,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-14T15:38:50.760,4XU4M9,main,2.0,fixation_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-14T15:39:20.764,4XU4M9,main,2.0,fixation_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-14T15:39:20.826,4XU4M9,main,2.0,song_listen_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-14T15:40:57.842,4XU4M9,main,2.0,origin_shown,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,midpoint_seconds=96.996
+2026-06-14T15:42:36.133,4XU4M9,main,2.0,song_listen_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,elapsed=195.305
+2026-06-14T15:43:02.144,4XU4M9,main,2.0,song_questionnaire_submitted,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-14T15:43:02.144,4XU4M9,main,3.0,fixation_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-14T15:43:32.147,4XU4M9,main,3.0,fixation_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-14T15:43:32.219,4XU4M9,main,3.0,song_listen_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-14T15:45:20.714,4XU4M9,main,3.0,origin_shown,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,midpoint_seconds=108.516
+2026-06-14T15:47:10.832,4XU4M9,main,3.0,song_listen_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,elapsed=218.643
+2026-06-14T15:47:40.333,4XU4M9,main,3.0,song_questionnaire_submitted,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-14T15:47:40.334,4XU4M9,main,4.0,fixation_started,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-14T15:48:10.360,4XU4M9,main,4.0,fixation_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-14T15:48:10.425,4XU4M9,main,4.0,song_listen_started,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-14T15:50:29.631,4XU4M9,main,4.0,origin_shown,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,midpoint_seconds=139.200
+2026-06-14T15:52:50.031,4XU4M9,main,4.0,song_listen_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,elapsed=279.607
+2026-06-14T15:53:19.449,4XU4M9,main,4.0,song_questionnaire_submitted,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-14T15:53:19.449,4XU4M9,main,5.0,fixation_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-14T15:53:49.476,4XU4M9,main,5.0,fixation_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-14T15:53:49.527,4XU4M9,main,5.0,song_listen_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-14T15:55:36.681,4XU4M9,main,5.0,origin_shown,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,midpoint_seconds=107.136
+2026-06-14T15:57:24.971,4XU4M9,main,5.0,song_listen_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,elapsed=215.444
+2026-06-14T15:57:49.743,4XU4M9,main,5.0,song_questionnaire_submitted,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-14T15:57:49.743,4XU4M9,main,6.0,fixation_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-14T15:58:19.746,4XU4M9,main,6.0,fixation_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-14T15:58:19.817,4XU4M9,main,6.0,song_listen_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-14T15:59:40.845,4XU4M9,main,6.0,origin_shown,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,midpoint_seconds=81.012
+2026-06-14T16:01:03.181,4XU4M9,main,6.0,song_listen_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,elapsed=163.365
+2026-06-14T16:01:26.072,4XU4M9,main,6.0,song_questionnaire_submitted,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-14T16:01:26.072,4XU4M9,main,,main_experiment_finished,,,,,
+2026-06-14T16:07:10.404,GKQ4V7,initial_questionnaire,,initial_questionnaire_submitted,,,,,
+2026-06-14T16:07:10.406,GKQ4V7,practice,,practice_started,,,,,
+2026-06-14T16:07:25.823,GKQ4V7,practice,,practice_fixation_completed,,,,,
+2026-06-14T16:07:27.634,GKQ4V7,practice,0.0,song_listen_started,stimuli/practice/sample.mp3,AI-generated,Human composed,True,
+2026-06-14T16:07:30.858,GKQ4V7,practice,0.0,origin_shown,stimuli/practice/sample.mp3,AI-generated,Human composed,True,midpoint_seconds=3.213
+2026-06-14T16:07:35.605,GKQ4V7,practice,0.0,song_listen_finished,stimuli/practice/sample.mp3,AI-generated,Human composed,True,elapsed=7.971
+2026-06-14T16:07:54.789,GKQ4V7,practice,,practice_questionnaire_completed,,,,,Practice answers were not saved.
+2026-06-14T16:07:56.705,GKQ4V7,practice,,practice_finished,,,,,
+2026-06-14T16:08:00.036,GKQ4V7,main,,main_experiment_started,,,,,
+2026-06-14T16:08:00.037,GKQ4V7,main,1.0,fixation_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-14T16:08:30.040,GKQ4V7,main,1.0,fixation_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-14T16:08:30.108,GKQ4V7,main,1.0,song_listen_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-14T16:10:17.259,GKQ4V7,main,1.0,origin_shown,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,midpoint_seconds=107.136
+2026-06-14T16:12:05.907,GKQ4V7,main,1.0,song_listen_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,elapsed=215.799
+2026-06-14T16:12:41.555,GKQ4V7,main,1.0,song_questionnaire_submitted,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-14T16:12:41.555,GKQ4V7,main,2.0,fixation_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-14T16:13:11.558,GKQ4V7,main,2.0,fixation_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-14T16:13:11.625,GKQ4V7,main,2.0,song_listen_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-14T16:14:54.682,GKQ4V7,main,2.0,origin_shown,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,midpoint_seconds=103.056
+2026-06-14T16:16:39.397,GKQ4V7,main,2.0,song_listen_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,elapsed=207.751
+2026-06-14T16:17:08.591,GKQ4V7,main,2.0,song_questionnaire_submitted,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-14T16:17:08.592,GKQ4V7,main,3.0,fixation_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-14T16:17:38.595,GKQ4V7,main,3.0,fixation_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-14T16:17:38.669,GKQ4V7,main,3.0,song_listen_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-14T16:19:27.192,GKQ4V7,main,3.0,origin_shown,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,midpoint_seconds=108.516
+2026-06-14T16:21:17.094,GKQ4V7,main,3.0,song_listen_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,elapsed=218.424
+2026-06-14T16:21:55.543,GKQ4V7,main,3.0,song_questionnaire_submitted,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-14T16:21:55.543,GKQ4V7,main,4.0,fixation_started,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-14T16:22:25.545,GKQ4V7,main,4.0,fixation_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-14T16:22:25.587,GKQ4V7,main,4.0,song_listen_started,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-14T16:24:44.803,GKQ4V7,main,4.0,origin_shown,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,midpoint_seconds=139.200
+2026-06-14T16:27:05.529,GKQ4V7,main,4.0,song_listen_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,elapsed=279.941
+2026-06-14T16:27:35.806,GKQ4V7,main,4.0,song_questionnaire_submitted,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-14T16:27:35.806,GKQ4V7,main,5.0,fixation_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-14T16:28:05.809,GKQ4V7,main,5.0,fixation_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-14T16:28:05.881,GKQ4V7,main,5.0,song_listen_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-14T16:29:42.892,GKQ4V7,main,5.0,origin_shown,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,midpoint_seconds=96.996
+2026-06-14T16:31:21.063,GKQ4V7,main,5.0,song_listen_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,elapsed=195.181
+2026-06-14T16:31:36.738,GKQ4V7,main,5.0,song_questionnaire_submitted,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-14T16:31:36.738,GKQ4V7,main,6.0,fixation_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-14T16:32:06.742,GKQ4V7,main,6.0,fixation_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-14T16:32:06.814,GKQ4V7,main,6.0,song_listen_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-14T16:33:27.846,GKQ4V7,main,6.0,origin_shown,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,midpoint_seconds=81.012
+2026-06-14T16:34:50.059,GKQ4V7,main,6.0,song_listen_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,elapsed=163.244
+2026-06-14T16:35:10.102,GKQ4V7,main,6.0,song_questionnaire_submitted,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-14T16:35:10.102,GKQ4V7,main,,main_experiment_finished,,,,,
+2026-06-14T19:43:03.816,E5KGNR,initial_questionnaire,,initial_questionnaire_submitted,,,,,
+2026-06-14T19:43:03.819,E5KGNR,practice,,practice_started,,,,,
+2026-06-14T19:43:13.101,E5KGNR,practice,,practice_fixation_completed,,,,,
+2026-06-14T19:43:14.769,E5KGNR,practice,0.0,song_listen_started,stimuli/practice/sample.mp3,AI-generated,Human composed,True,
+2026-06-14T19:43:17.996,E5KGNR,practice,0.0,origin_shown,stimuli/practice/sample.mp3,AI-generated,Human composed,True,midpoint_seconds=3.213
+2026-06-14T19:43:21.981,E5KGNR,practice,0.0,song_listen_finished,stimuli/practice/sample.mp3,AI-generated,Human composed,True,elapsed=7.212
+2026-06-14T19:43:29.084,E5KGNR,practice,,practice_questionnaire_completed,,,,,Practice answers were not saved.
+2026-06-14T19:43:29.917,E5KGNR,practice,,practice_finished,,,,,
+2026-06-14T19:43:31.081,E5KGNR,main,,main_experiment_started,,,,,
+2026-06-14T19:43:31.081,E5KGNR,main,1.0,fixation_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-14T19:44:01.084,E5KGNR,main,1.0,fixation_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-14T19:44:01.146,E5KGNR,main,1.0,song_listen_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-14T19:45:48.297,E5KGNR,main,1.0,origin_shown,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,midpoint_seconds=107.136
+2026-06-14T19:47:36.323,E5KGNR,main,1.0,song_listen_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,elapsed=215.176
+2026-06-14T19:47:53.617,E5KGNR,main,1.0,song_questionnaire_submitted,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-14T19:47:53.617,E5KGNR,main,2.0,fixation_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-14T19:48:23.620,E5KGNR,main,2.0,fixation_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-14T19:48:23.695,E5KGNR,main,2.0,song_listen_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-15T14:21:37.377,P7M2VU,initial_questionnaire,,initial_questionnaire_submitted,,,,,
+2026-06-15T14:21:37.380,P7M2VU,practice,,practice_started,,,,,
+2026-06-15T14:22:06.905,P7M2VU,practice,,practice_fixation_completed,,,,,
+2026-06-15T14:22:11.048,P7M2VU,practice,0.0,song_listen_started,stimuli/practice/sample.mp3,AI-generated,Human composed,True,
+2026-06-15T14:22:14.271,P7M2VU,practice,0.0,origin_shown,stimuli/practice/sample.mp3,AI-generated,Human composed,True,midpoint_seconds=3.213
+2026-06-15T14:22:18.995,P7M2VU,practice,0.0,song_listen_finished,stimuli/practice/sample.mp3,AI-generated,Human composed,True,elapsed=7.947
+2026-06-15T14:22:42.392,P7M2VU,practice,,practice_questionnaire_completed,,,,,Practice answers were not saved.
+2026-06-15T14:22:45.122,P7M2VU,practice,,practice_finished,,,,,
+2026-06-15T14:22:47.573,P7M2VU,main,,main_experiment_started,,,,,
+2026-06-15T14:22:47.574,P7M2VU,main,1.0,fixation_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-15T14:23:17.577,P7M2VU,main,1.0,fixation_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-15T14:23:17.648,P7M2VU,main,1.0,song_listen_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-15T14:24:54.651,P7M2VU,main,1.0,origin_shown,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,midpoint_seconds=96.996
+2026-06-15T14:26:32.628,P7M2VU,main,1.0,song_listen_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,elapsed=194.980
+2026-06-15T14:26:57.992,P7M2VU,main,1.0,song_questionnaire_submitted,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-15T14:26:57.992,P7M2VU,main,2.0,fixation_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-15T14:27:27.995,P7M2VU,main,2.0,fixation_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-15T14:27:28.065,P7M2VU,main,2.0,song_listen_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-15T14:29:16.600,P7M2VU,main,2.0,origin_shown,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,midpoint_seconds=108.516
+2026-06-15T14:31:06.695,P7M2VU,main,2.0,song_listen_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,elapsed=218.629
+2026-06-15T14:31:28.886,P7M2VU,main,2.0,song_questionnaire_submitted,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-15T14:31:28.886,P7M2VU,main,3.0,fixation_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-15T14:31:58.889,P7M2VU,main,3.0,fixation_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-15T14:31:58.962,P7M2VU,main,3.0,song_listen_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-15T14:33:19.975,P7M2VU,main,3.0,origin_shown,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,midpoint_seconds=81.012
+2026-06-15T14:34:42.183,P7M2VU,main,3.0,song_listen_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,elapsed=163.221
+2026-06-15T14:35:02.601,P7M2VU,main,3.0,song_questionnaire_submitted,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-15T14:35:02.601,P7M2VU,main,4.0,fixation_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-15T14:35:32.604,P7M2VU,main,4.0,fixation_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-15T14:35:32.677,P7M2VU,main,4.0,song_listen_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-15T14:37:19.818,P7M2VU,main,4.0,origin_shown,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,midpoint_seconds=107.136
+2026-06-15T14:39:08.389,P7M2VU,main,4.0,song_listen_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,elapsed=215.712
+2026-06-15T14:39:29.672,P7M2VU,main,4.0,song_questionnaire_submitted,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-15T14:39:29.672,P7M2VU,main,5.0,fixation_started,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-15T14:39:59.675,P7M2VU,main,5.0,fixation_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-15T14:39:59.737,P7M2VU,main,5.0,song_listen_started,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-15T14:42:18.955,P7M2VU,main,5.0,origin_shown,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,midpoint_seconds=139.200
+2026-06-15T14:44:39.400,P7M2VU,main,5.0,song_listen_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,elapsed=279.663
+2026-06-15T14:44:58.753,P7M2VU,main,5.0,song_questionnaire_submitted,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-15T14:44:58.753,P7M2VU,main,6.0,fixation_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-15T14:45:28.756,P7M2VU,main,6.0,fixation_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-15T14:45:28.828,P7M2VU,main,6.0,song_listen_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-15T14:47:11.892,P7M2VU,main,6.0,origin_shown,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,midpoint_seconds=103.056
+2026-06-15T14:48:56.248,P7M2VU,main,6.0,song_listen_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,elapsed=207.431
+2026-06-15T14:49:20.816,P7M2VU,main,6.0,song_questionnaire_submitted,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-15T14:49:20.816,P7M2VU,main,,main_experiment_finished,,,,,
+2026-06-15T15:12:53.943,37X57U,initial_questionnaire,,initial_questionnaire_submitted,,,,,
+2026-06-15T15:12:53.946,37X57U,practice,,practice_started,,,,,
+2026-06-15T15:13:51.929,37X57U,practice,,practice_fixation_completed,,,,,
+2026-06-15T15:13:59.343,37X57U,practice,0.0,song_listen_started,stimuli/practice/sample.mp3,AI-generated,Human composed,True,
+2026-06-15T15:14:02.561,37X57U,practice,0.0,origin_shown,stimuli/practice/sample.mp3,AI-generated,Human composed,True,midpoint_seconds=3.213
+2026-06-15T15:14:06.982,37X57U,practice,0.0,song_listen_finished,stimuli/practice/sample.mp3,AI-generated,Human composed,True,elapsed=7.639
+2026-06-15T15:15:09.458,37X57U,practice,,practice_questionnaire_completed,,,,,Practice answers were not saved.
+2026-06-15T15:15:12.675,37X57U,practice,,practice_finished,,,,,
+2026-06-15T15:15:17.724,37X57U,main,,main_experiment_started,,,,,
+2026-06-15T15:15:17.725,37X57U,main,1.0,fixation_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-15T15:15:47.729,37X57U,main,1.0,fixation_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-15T15:15:47.801,37X57U,main,1.0,song_listen_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-15T15:17:36.336,37X57U,main,1.0,origin_shown,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,midpoint_seconds=108.516
+2026-06-15T15:19:26.170,37X57U,main,1.0,song_listen_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,elapsed=218.371
+2026-06-15T15:20:19.362,37X57U,main,1.0,song_questionnaire_submitted,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-15T15:20:19.362,37X57U,main,2.0,fixation_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-15T15:20:49.364,37X57U,main,2.0,fixation_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-15T15:20:49.436,37X57U,main,2.0,song_listen_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-15T15:22:32.502,37X57U,main,2.0,origin_shown,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,midpoint_seconds=103.056
+2026-06-15T15:24:16.697,37X57U,main,2.0,song_listen_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,elapsed=207.263
+2026-06-15T15:24:50.148,37X57U,main,2.0,song_questionnaire_submitted,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-15T15:24:50.148,37X57U,main,3.0,fixation_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-15T15:25:20.152,37X57U,main,3.0,fixation_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-15T15:25:20.224,37X57U,main,3.0,song_listen_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-15T15:26:57.229,37X57U,main,3.0,origin_shown,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,midpoint_seconds=96.996
+2026-06-15T15:28:35.620,37X57U,main,3.0,song_listen_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,elapsed=195.390
+2026-06-15T15:29:03.330,37X57U,main,3.0,song_questionnaire_submitted,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-15T15:29:03.330,37X57U,main,4.0,fixation_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-15T15:29:33.334,37X57U,main,4.0,fixation_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-15T15:29:33.404,37X57U,main,4.0,song_listen_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-15T15:31:20.558,37X57U,main,4.0,origin_shown,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,midpoint_seconds=107.136
+2026-06-15T15:33:08.796,37X57U,main,4.0,song_listen_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,elapsed=215.392
+2026-06-15T15:33:34.711,37X57U,main,4.0,song_questionnaire_submitted,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-15T15:33:34.711,37X57U,main,5.0,fixation_started,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-15T15:34:04.715,37X57U,main,5.0,fixation_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-15T15:34:04.785,37X57U,main,5.0,song_listen_started,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-15T15:36:23.994,37X57U,main,5.0,origin_shown,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,midpoint_seconds=139.200
+2026-06-15T15:38:44.537,37X57U,main,5.0,song_listen_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,elapsed=279.753
+2026-06-15T15:39:15.672,37X57U,main,5.0,song_questionnaire_submitted,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-15T15:39:15.673,37X57U,main,6.0,fixation_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-15T15:39:45.676,37X57U,main,6.0,fixation_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-15T15:39:45.746,37X57U,main,6.0,song_listen_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-15T15:41:06.769,37X57U,main,6.0,origin_shown,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,midpoint_seconds=81.012
+2026-06-15T15:42:29.089,37X57U,main,6.0,song_listen_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,elapsed=163.344
+2026-06-15T15:42:50.857,37X57U,main,6.0,song_questionnaire_submitted,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-15T15:42:50.857,37X57U,main,,main_experiment_finished,,,,,
+2026-06-15T15:51:56.540,BX57PN,initial_questionnaire,,initial_questionnaire_submitted,,,,,
+2026-06-15T15:51:56.543,BX57PN,practice,,practice_started,,,,,
+2026-06-15T15:52:21.409,BX57PN,practice,,practice_fixation_completed,,,,,
+2026-06-15T15:52:25.625,BX57PN,practice,0.0,song_listen_started,stimuli/practice/sample.mp3,AI-generated,Human composed,True,
+2026-06-15T15:52:28.853,BX57PN,practice,0.0,origin_shown,stimuli/practice/sample.mp3,AI-generated,Human composed,True,midpoint_seconds=3.213
+2026-06-15T15:52:33.491,BX57PN,practice,0.0,song_listen_finished,stimuli/practice/sample.mp3,AI-generated,Human composed,True,elapsed=7.866
+2026-06-15T15:53:24.762,BX57PN,practice,,practice_questionnaire_completed,,,,,Practice answers were not saved.
+2026-06-15T15:53:28.385,BX57PN,practice,,practice_finished,,,,,
+2026-06-15T15:53:31.888,BX57PN,main,,main_experiment_started,,,,,
+2026-06-15T15:53:31.889,BX57PN,main,1.0,fixation_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-15T15:54:01.891,BX57PN,main,1.0,fixation_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-15T15:54:01.966,BX57PN,main,1.0,song_listen_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-15T15:55:49.121,BX57PN,main,1.0,origin_shown,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,midpoint_seconds=107.136
+2026-06-15T15:57:37.861,BX57PN,main,1.0,song_listen_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,elapsed=215.895
+2026-06-15T15:58:22.686,BX57PN,main,1.0,song_questionnaire_submitted,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-15T15:58:22.686,BX57PN,main,2.0,fixation_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-15T15:58:52.690,BX57PN,main,2.0,fixation_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-15T15:58:52.761,BX57PN,main,2.0,song_listen_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-15T16:00:29.798,BX57PN,main,2.0,origin_shown,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,midpoint_seconds=96.996
+2026-06-15T16:02:08.169,BX57PN,main,2.0,song_listen_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,elapsed=195.379
+2026-06-15T16:02:41.164,BX57PN,main,2.0,song_questionnaire_submitted,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-15T16:02:41.165,BX57PN,main,3.0,fixation_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-15T16:03:11.168,BX57PN,main,3.0,fixation_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-15T16:03:11.235,BX57PN,main,3.0,song_listen_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-15T16:04:32.260,BX57PN,main,3.0,origin_shown,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,midpoint_seconds=81.012
+2026-06-15T16:05:54.610,BX57PN,main,3.0,song_listen_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,elapsed=163.374
+2026-06-15T16:06:21.394,BX57PN,main,3.0,song_questionnaire_submitted,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-15T16:06:21.394,BX57PN,main,4.0,fixation_started,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-15T16:06:51.397,BX57PN,main,4.0,fixation_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-15T16:06:51.470,BX57PN,main,4.0,song_listen_started,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-15T16:09:10.680,BX57PN,main,4.0,origin_shown,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,midpoint_seconds=139.200
+2026-06-15T16:11:30.575,BX57PN,main,4.0,song_listen_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,elapsed=279.104
+2026-06-15T16:12:03.548,BX57PN,main,4.0,song_questionnaire_submitted,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-15T16:12:03.548,BX57PN,main,5.0,fixation_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-15T16:12:33.551,BX57PN,main,5.0,fixation_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-15T16:12:33.622,BX57PN,main,5.0,song_listen_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-15T16:14:16.694,BX57PN,main,5.0,origin_shown,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,midpoint_seconds=103.056
+2026-06-15T16:16:00.585,BX57PN,main,5.0,song_listen_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,elapsed=206.962
+2026-06-15T16:16:31.334,BX57PN,main,5.0,song_questionnaire_submitted,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-15T16:16:31.334,BX57PN,main,6.0,fixation_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-15T16:17:01.337,BX57PN,main,6.0,fixation_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-15T16:17:01.384,BX57PN,main,6.0,song_listen_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-15T16:18:49.917,BX57PN,main,6.0,origin_shown,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,midpoint_seconds=108.516
+2026-06-15T16:20:39.696,BX57PN,main,6.0,song_listen_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,elapsed=218.311
+2026-06-15T16:21:07.458,BX57PN,main,6.0,song_questionnaire_submitted,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-15T16:21:07.459,BX57PN,main,,main_experiment_finished,,,,,
+2026-06-15T16:27:33.582,RQLMGW,initial_questionnaire,,initial_questionnaire_submitted,,,,,
+2026-06-15T16:27:33.585,RQLMGW,practice,,practice_started,,,,,
+2026-06-15T16:27:57.729,RQLMGW,practice,,practice_fixation_completed,,,,,
+2026-06-15T16:28:02.752,RQLMGW,practice,0.0,song_listen_started,stimuli/practice/sample.mp3,AI-generated,Human composed,True,
+2026-06-15T16:28:05.980,RQLMGW,practice,0.0,origin_shown,stimuli/practice/sample.mp3,AI-generated,Human composed,True,midpoint_seconds=3.213
+2026-06-15T16:28:10.561,RQLMGW,practice,0.0,song_listen_finished,stimuli/practice/sample.mp3,AI-generated,Human composed,True,elapsed=7.808
+2026-06-15T16:28:55.220,RQLMGW,practice,,practice_questionnaire_completed,,,,,Practice answers were not saved.
+2026-06-15T16:28:58.062,RQLMGW,practice,,practice_finished,,,,,
+2026-06-15T16:29:01.615,RQLMGW,main,,main_experiment_started,,,,,
+2026-06-15T16:29:01.616,RQLMGW,main,1.0,fixation_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-15T16:29:31.619,RQLMGW,main,1.0,fixation_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-15T16:29:31.692,RQLMGW,main,1.0,song_listen_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-15T16:31:18.839,RQLMGW,main,1.0,origin_shown,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,midpoint_seconds=107.136
+2026-06-15T16:33:07.400,RQLMGW,main,1.0,song_listen_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,elapsed=215.707
+2026-06-15T16:33:38.059,RQLMGW,main,1.0,song_questionnaire_submitted,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-15T16:33:38.059,RQLMGW,main,2.0,fixation_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-15T16:34:08.062,RQLMGW,main,2.0,fixation_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-15T16:34:08.133,RQLMGW,main,2.0,song_listen_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-15T16:35:51.201,RQLMGW,main,2.0,origin_shown,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,midpoint_seconds=103.056
+2026-06-15T16:37:35.878,RQLMGW,main,2.0,song_listen_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,elapsed=207.743
+2026-06-15T16:38:08.311,RQLMGW,main,2.0,song_questionnaire_submitted,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-15T16:38:08.311,RQLMGW,main,3.0,fixation_started,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-15T16:38:38.315,RQLMGW,main,3.0,fixation_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-15T16:38:38.388,RQLMGW,main,3.0,song_listen_started,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-15T16:40:57.598,RQLMGW,main,3.0,origin_shown,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,midpoint_seconds=139.200
+2026-06-15T16:43:18.139,RQLMGW,main,3.0,song_listen_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,elapsed=279.750
+2026-06-15T16:43:43.963,RQLMGW,main,3.0,song_questionnaire_submitted,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-15T16:43:43.963,RQLMGW,main,4.0,fixation_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-15T16:44:13.965,RQLMGW,main,4.0,fixation_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-15T16:44:14.037,RQLMGW,main,4.0,song_listen_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-15T16:45:35.060,RQLMGW,main,4.0,origin_shown,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,midpoint_seconds=81.012
+2026-06-15T16:46:57.275,RQLMGW,main,4.0,song_listen_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,elapsed=163.237
+2026-06-15T16:47:30.945,RQLMGW,main,4.0,song_questionnaire_submitted,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-15T16:47:30.945,RQLMGW,main,5.0,fixation_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-15T16:48:00.948,RQLMGW,main,5.0,fixation_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-15T16:48:01.021,RQLMGW,main,5.0,song_listen_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-15T16:49:38.021,RQLMGW,main,5.0,origin_shown,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,midpoint_seconds=96.996
+2026-06-15T16:51:16.073,RQLMGW,main,5.0,song_listen_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,elapsed=195.050
+2026-06-15T16:51:32.340,RQLMGW,main,5.0,song_questionnaire_submitted,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-15T16:51:32.340,RQLMGW,main,6.0,fixation_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-15T16:52:02.345,RQLMGW,main,6.0,fixation_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-15T16:52:02.414,RQLMGW,main,6.0,song_listen_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-15T16:53:50.943,RQLMGW,main,6.0,origin_shown,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,midpoint_seconds=108.516
+2026-06-15T16:55:40.799,RQLMGW,main,6.0,song_listen_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,elapsed=218.384
+2026-06-15T16:55:58.983,RQLMGW,main,6.0,song_questionnaire_submitted,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-15T16:55:58.983,RQLMGW,main,,main_experiment_finished,,,,,
+2026-06-15T17:08:00.407,VNTXA6,initial_questionnaire,,initial_questionnaire_submitted,,,,,
+2026-06-15T17:08:00.410,VNTXA6,practice,,practice_started,,,,,
+2026-06-15T17:08:46.887,VNTXA6,practice,,practice_fixation_completed,,,,,
+2026-06-15T17:08:46.998,VNTXA6,practice,0.0,song_listen_started,stimuli/practice/sample.mp3,AI-generated,Human composed,True,
+2026-06-15T17:08:50.223,VNTXA6,practice,0.0,origin_shown,stimuli/practice/sample.mp3,AI-generated,Human composed,True,midpoint_seconds=3.213
+2026-06-15T17:08:54.618,VNTXA6,practice,0.0,song_listen_finished,stimuli/practice/sample.mp3,AI-generated,Human composed,True,elapsed=7.620
+2026-06-15T17:09:46.174,VNTXA6,practice,,practice_questionnaire_completed,,,,,Practice answers were not saved.
+2026-06-15T17:09:50.205,VNTXA6,practice,,practice_finished,,,,,
+2026-06-15T17:09:57.544,VNTXA6,main,,main_experiment_started,,,,,
+2026-06-15T17:09:57.545,VNTXA6,main,1.0,fixation_started,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-15T17:10:27.547,VNTXA6,main,1.0,fixation_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-15T17:10:27.621,VNTXA6,main,1.0,song_listen_started,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-15T17:12:46.825,VNTXA6,main,1.0,origin_shown,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,midpoint_seconds=139.200
+2026-06-15T17:15:07.411,VNTXA6,main,1.0,song_listen_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,elapsed=279.792
+2026-06-15T17:15:36.918,VNTXA6,main,1.0,song_questionnaire_submitted,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-15T17:15:36.918,VNTXA6,main,2.0,fixation_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-15T17:16:06.922,VNTXA6,main,2.0,fixation_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-15T17:16:06.994,VNTXA6,main,2.0,song_listen_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-15T17:17:28.009,VNTXA6,main,2.0,origin_shown,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,midpoint_seconds=81.012
+2026-06-15T17:18:50.209,VNTXA6,main,2.0,song_listen_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,elapsed=163.217
+2026-06-15T17:19:03.597,VNTXA6,main,2.0,song_questionnaire_submitted,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-15T17:19:03.597,VNTXA6,main,3.0,fixation_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-15T17:19:33.601,VNTXA6,main,3.0,fixation_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-15T17:19:33.675,VNTXA6,main,3.0,song_listen_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-15T17:21:10.675,VNTXA6,main,3.0,origin_shown,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,midpoint_seconds=96.996
+2026-06-15T17:22:49.232,VNTXA6,main,3.0,song_listen_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,elapsed=195.559
+2026-06-15T17:23:18.270,VNTXA6,main,3.0,song_questionnaire_submitted,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-15T17:23:18.270,VNTXA6,main,4.0,fixation_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-15T17:23:48.273,VNTXA6,main,4.0,fixation_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-15T17:23:48.342,VNTXA6,main,4.0,song_listen_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-15T17:25:35.497,VNTXA6,main,4.0,origin_shown,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,midpoint_seconds=107.136
+2026-06-15T17:27:23.980,VNTXA6,main,4.0,song_listen_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,elapsed=215.640
+2026-06-15T17:27:41.328,VNTXA6,main,4.0,song_questionnaire_submitted,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-15T17:27:41.328,VNTXA6,main,5.0,fixation_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-15T17:28:11.331,VNTXA6,main,5.0,fixation_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-15T17:28:11.395,VNTXA6,main,5.0,song_listen_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-15T17:29:59.923,VNTXA6,main,5.0,origin_shown,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,midpoint_seconds=108.516
+2026-06-15T17:31:49.719,VNTXA6,main,5.0,song_listen_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,elapsed=218.303
+2026-06-15T17:32:13.553,VNTXA6,main,5.0,song_questionnaire_submitted,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-15T17:32:13.553,VNTXA6,main,6.0,fixation_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-15T17:32:43.556,VNTXA6,main,6.0,fixation_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-15T17:32:43.628,VNTXA6,main,6.0,song_listen_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-15T17:34:26.696,VNTXA6,main,6.0,origin_shown,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,midpoint_seconds=103.056
+2026-06-15T17:36:11.412,VNTXA6,main,6.0,song_listen_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,elapsed=207.783
+2026-06-15T17:36:35.139,VNTXA6,main,6.0,song_questionnaire_submitted,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-15T17:36:35.139,VNTXA6,main,,main_experiment_finished,,,,,
+2026-06-15T17:45:11.070,SWEPBP,initial_questionnaire,,initial_questionnaire_submitted,,,,,
+2026-06-15T17:45:11.072,SWEPBP,practice,,practice_started,,,,,
+2026-06-15T17:45:30.838,SWEPBP,practice,,practice_fixation_completed,,,,,
+2026-06-15T17:45:33.053,SWEPBP,practice,0.0,song_listen_started,stimuli/practice/sample.mp3,AI-generated,Human composed,True,
+2026-06-15T17:45:36.278,SWEPBP,practice,0.0,origin_shown,stimuli/practice/sample.mp3,AI-generated,Human composed,True,midpoint_seconds=3.213
+2026-06-15T17:45:40.641,SWEPBP,practice,0.0,song_listen_finished,stimuli/practice/sample.mp3,AI-generated,Human composed,True,elapsed=7.588
+2026-06-15T17:46:14.336,SWEPBP,practice,,practice_questionnaire_completed,,,,,Practice answers were not saved.
+2026-06-15T17:46:17.569,SWEPBP,practice,,practice_finished,,,,,
+2026-06-15T17:46:22.083,SWEPBP,main,,main_experiment_started,,,,,
+2026-06-15T17:46:22.083,SWEPBP,main,1.0,fixation_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-15T17:46:52.088,SWEPBP,main,1.0,fixation_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-15T17:46:52.160,SWEPBP,main,1.0,song_listen_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-15T17:48:35.217,SWEPBP,main,1.0,origin_shown,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,midpoint_seconds=103.056
+2026-06-15T17:50:19.772,SWEPBP,main,1.0,song_listen_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,elapsed=207.612
+2026-06-15T17:50:49.687,SWEPBP,main,1.0,song_questionnaire_submitted,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-15T17:50:49.687,SWEPBP,main,2.0,fixation_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-15T17:51:19.690,SWEPBP,main,2.0,fixation_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-15T17:51:19.761,SWEPBP,main,2.0,song_listen_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-15T17:53:08.284,SWEPBP,main,2.0,origin_shown,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,midpoint_seconds=108.516
+2026-06-15T17:54:58.107,SWEPBP,main,2.0,song_listen_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,elapsed=218.346
+2026-06-15T17:55:37.388,SWEPBP,main,2.0,song_questionnaire_submitted,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-15T17:55:37.388,SWEPBP,main,3.0,fixation_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-15T17:56:07.392,SWEPBP,main,3.0,fixation_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-15T17:56:07.442,SWEPBP,main,3.0,song_listen_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-15T17:57:44.442,SWEPBP,main,3.0,origin_shown,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,midpoint_seconds=96.996
+2026-06-15T17:59:22.748,SWEPBP,main,3.0,song_listen_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,elapsed=195.305
+2026-06-15T17:59:50.068,SWEPBP,main,3.0,song_questionnaire_submitted,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-15T17:59:50.068,SWEPBP,main,4.0,fixation_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-15T18:00:20.072,SWEPBP,main,4.0,fixation_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-15T18:00:20.144,SWEPBP,main,4.0,song_listen_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-15T18:01:41.173,SWEPBP,main,4.0,origin_shown,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,midpoint_seconds=81.012
+2026-06-15T18:03:03.757,SWEPBP,main,4.0,song_listen_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,elapsed=163.627
+2026-06-15T18:03:42.506,SWEPBP,main,4.0,song_questionnaire_submitted,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-15T18:03:42.507,SWEPBP,main,5.0,fixation_started,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-15T18:04:12.510,SWEPBP,main,5.0,fixation_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-15T18:04:12.582,SWEPBP,main,5.0,song_listen_started,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-15T18:06:31.796,SWEPBP,main,5.0,origin_shown,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,midpoint_seconds=139.200
+2026-06-15T18:08:52.073,SWEPBP,main,5.0,song_listen_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,elapsed=279.492
+2026-06-15T18:09:49.324,SWEPBP,main,5.0,song_questionnaire_submitted,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-15T18:09:49.324,SWEPBP,main,6.0,fixation_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-15T18:10:19.325,SWEPBP,main,6.0,fixation_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-15T18:10:19.399,SWEPBP,main,6.0,song_listen_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-15T18:12:06.549,SWEPBP,main,6.0,origin_shown,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,midpoint_seconds=107.136
+2026-06-15T18:13:55.025,SWEPBP,main,6.0,song_listen_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,elapsed=215.627
+2026-06-15T18:14:18.150,SWEPBP,main,6.0,song_questionnaire_submitted,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-15T18:14:18.150,SWEPBP,main,,main_experiment_finished,,,,,
+2026-06-15T18:22:47.855,JGNUMT,initial_questionnaire,,initial_questionnaire_submitted,,,,,
+2026-06-15T18:22:47.860,JGNUMT,practice,,practice_started,,,,,
+2026-06-15T18:23:16.771,JGNUMT,practice,,practice_fixation_completed,,,,,
+2026-06-15T18:23:21.419,JGNUMT,practice,0.0,song_listen_started,stimuli/practice/sample.mp3,AI-generated,Human composed,True,
+2026-06-15T18:23:24.642,JGNUMT,practice,0.0,origin_shown,stimuli/practice/sample.mp3,AI-generated,Human composed,True,midpoint_seconds=3.213
+2026-06-15T18:23:29.155,JGNUMT,practice,0.0,song_listen_finished,stimuli/practice/sample.mp3,AI-generated,Human composed,True,elapsed=7.735
+2026-06-15T18:24:05.806,JGNUMT,practice,,practice_questionnaire_completed,,,,,Practice answers were not saved.
+2026-06-15T18:24:07.869,JGNUMT,practice,,practice_finished,,,,,
+2026-06-15T18:24:14.185,JGNUMT,main,,main_experiment_started,,,,,
+2026-06-15T18:24:14.185,JGNUMT,main,1.0,fixation_started,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-15T18:24:44.188,JGNUMT,main,1.0,fixation_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-15T18:24:44.262,JGNUMT,main,1.0,song_listen_started,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-15T18:27:03.476,JGNUMT,main,1.0,origin_shown,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,midpoint_seconds=139.200
+2026-06-15T18:29:24.202,JGNUMT,main,1.0,song_listen_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,elapsed=279.940
+2026-06-15T18:29:45.001,JGNUMT,main,1.0,song_questionnaire_submitted,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-15T18:29:45.001,JGNUMT,main,2.0,fixation_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-15T18:30:15.004,JGNUMT,main,2.0,fixation_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-15T18:30:15.076,JGNUMT,main,2.0,song_listen_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-15T18:31:36.107,JGNUMT,main,2.0,origin_shown,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,midpoint_seconds=81.012
+2026-06-15T18:32:58.190,JGNUMT,main,2.0,song_listen_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,elapsed=163.114
+2026-06-15T18:33:24.367,JGNUMT,main,2.0,song_questionnaire_submitted,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-15T18:33:24.367,JGNUMT,main,3.0,fixation_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-15T18:33:54.371,JGNUMT,main,3.0,fixation_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-15T18:33:54.441,JGNUMT,main,3.0,song_listen_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-15T18:35:42.971,JGNUMT,main,3.0,origin_shown,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,midpoint_seconds=108.516
+2026-06-15T18:37:32.807,JGNUMT,main,3.0,song_listen_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,elapsed=218.365
+2026-06-15T18:37:50.667,JGNUMT,main,3.0,song_questionnaire_submitted,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-15T18:37:50.668,JGNUMT,main,4.0,fixation_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-15T18:38:20.671,JGNUMT,main,4.0,fixation_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-15T18:38:20.743,JGNUMT,main,4.0,song_listen_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-15T18:40:07.893,JGNUMT,main,4.0,origin_shown,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,midpoint_seconds=107.136
+2026-06-15T18:41:56.519,JGNUMT,main,4.0,song_listen_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,elapsed=215.776
+2026-06-15T18:42:25.315,JGNUMT,main,4.0,song_questionnaire_submitted,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-15T18:42:25.315,JGNUMT,main,5.0,fixation_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-15T18:42:55.318,JGNUMT,main,5.0,fixation_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-15T18:42:55.377,JGNUMT,main,5.0,song_listen_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-15T18:44:38.451,JGNUMT,main,5.0,origin_shown,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,midpoint_seconds=103.056
+2026-06-15T18:46:22.805,JGNUMT,main,5.0,song_listen_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,elapsed=207.428
+2026-06-15T18:46:50.146,JGNUMT,main,5.0,song_questionnaire_submitted,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-15T18:46:50.146,JGNUMT,main,6.0,fixation_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-15T18:47:20.149,JGNUMT,main,6.0,fixation_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-15T18:47:20.222,JGNUMT,main,6.0,song_listen_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-15T18:48:57.222,JGNUMT,main,6.0,origin_shown,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,midpoint_seconds=96.996
+2026-06-15T18:50:35.790,JGNUMT,main,6.0,song_listen_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,elapsed=195.567
+2026-06-15T18:50:57.764,JGNUMT,main,6.0,song_questionnaire_submitted,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-15T18:50:57.764,JGNUMT,main,,main_experiment_finished,,,,,
+2026-06-15T18:57:54.997,C5C7VS,initial_questionnaire,,initial_questionnaire_submitted,,,,,
+2026-06-15T18:57:54.999,C5C7VS,practice,,practice_started,,,,,
+2026-06-15T18:58:02.516,C5C7VS,practice,,practice_fixation_completed,,,,,
+2026-06-15T18:58:04.673,C5C7VS,practice,0.0,song_listen_started,stimuli/practice/sample.mp3,AI-generated,Human composed,True,
+2026-06-15T18:58:07.894,C5C7VS,practice,0.0,origin_shown,stimuli/practice/sample.mp3,AI-generated,Human composed,True,midpoint_seconds=3.213
+2026-06-15T18:58:12.621,C5C7VS,practice,0.0,song_listen_finished,stimuli/practice/sample.mp3,AI-generated,Human composed,True,elapsed=7.948
+2026-06-15T18:58:33.831,C5C7VS,practice,,practice_questionnaire_completed,,,,,Practice answers were not saved.
+2026-06-15T18:58:34.883,C5C7VS,practice,,practice_finished,,,,,
+2026-06-15T18:58:36.145,C5C7VS,main,,main_experiment_started,,,,,
+2026-06-15T18:58:36.145,C5C7VS,main,1.0,fixation_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-15T18:59:06.148,C5C7VS,main,1.0,fixation_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-15T18:59:06.222,C5C7VS,main,1.0,song_listen_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-15T19:00:27.249,C5C7VS,main,1.0,origin_shown,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,midpoint_seconds=81.012
+2026-06-15T19:01:49.733,C5C7VS,main,1.0,song_listen_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,elapsed=163.512
+2026-06-15T19:02:14.794,C5C7VS,main,1.0,song_questionnaire_submitted,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-15T19:02:14.794,C5C7VS,main,2.0,fixation_started,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-15T19:02:44.798,C5C7VS,main,2.0,fixation_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-15T19:02:44.869,C5C7VS,main,2.0,song_listen_started,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-15T19:05:04.077,C5C7VS,main,2.0,origin_shown,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,midpoint_seconds=139.200
+2026-06-15T19:07:24.463,C5C7VS,main,2.0,song_listen_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,elapsed=279.596
+2026-06-15T19:07:36.386,C5C7VS,main,2.0,song_questionnaire_submitted,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-15T19:07:36.386,C5C7VS,main,3.0,fixation_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-15T19:08:06.390,C5C7VS,main,3.0,fixation_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-15T19:08:06.440,C5C7VS,main,3.0,song_listen_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-15T19:09:54.962,C5C7VS,main,3.0,origin_shown,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,midpoint_seconds=108.516
+2026-06-15T19:11:44.715,C5C7VS,main,3.0,song_listen_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,elapsed=218.277
+2026-06-15T19:12:00.102,C5C7VS,main,3.0,song_questionnaire_submitted,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-15T19:12:00.102,C5C7VS,main,4.0,fixation_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-15T19:12:30.105,C5C7VS,main,4.0,fixation_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-15T19:12:30.169,C5C7VS,main,4.0,song_listen_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-15T19:14:17.319,C5C7VS,main,4.0,origin_shown,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,midpoint_seconds=107.136
+2026-06-15T19:16:05.972,C5C7VS,main,4.0,song_listen_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,elapsed=215.804
+2026-06-15T19:16:18.717,C5C7VS,main,4.0,song_questionnaire_submitted,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-15T19:16:18.717,C5C7VS,main,5.0,fixation_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-15T19:16:48.721,C5C7VS,main,5.0,fixation_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-15T19:16:48.787,C5C7VS,main,5.0,song_listen_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-15T19:18:31.847,C5C7VS,main,5.0,origin_shown,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,midpoint_seconds=103.056
+2026-06-15T19:20:16.152,C5C7VS,main,5.0,song_listen_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,elapsed=207.366
+2026-06-15T19:20:24.548,C5C7VS,main,5.0,song_questionnaire_submitted,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-15T19:20:24.548,C5C7VS,main,6.0,fixation_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-15T19:20:54.552,C5C7VS,main,6.0,fixation_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-15T19:20:54.625,C5C7VS,main,6.0,song_listen_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-15T19:22:31.629,C5C7VS,main,6.0,origin_shown,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,midpoint_seconds=96.996
+2026-06-15T19:24:10.120,C5C7VS,main,6.0,song_listen_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,elapsed=195.462
+2026-06-15T19:24:17.378,C5C7VS,main,6.0,song_questionnaire_submitted,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-15T19:24:17.378,C5C7VS,main,,main_experiment_finished,,,,,
+2026-06-15T19:31:42.477,NVTK75,initial_questionnaire,,initial_questionnaire_submitted,,,,,
+2026-06-15T19:31:42.479,NVTK75,practice,,practice_started,,,,,
+2026-06-15T19:32:40.473,NVTK75,practice,,practice_fixation_completed,,,,,
+2026-06-15T19:32:52.441,NVTK75,practice,0.0,song_listen_started,stimuli/practice/sample.mp3,AI-generated,Human composed,True,
+2026-06-15T19:32:55.663,NVTK75,practice,0.0,origin_shown,stimuli/practice/sample.mp3,AI-generated,Human composed,True,midpoint_seconds=3.213
+2026-06-15T19:33:00.158,NVTK75,practice,0.0,song_listen_finished,stimuli/practice/sample.mp3,AI-generated,Human composed,True,elapsed=7.716
+2026-06-15T19:33:42.196,NVTK75,practice,,practice_questionnaire_completed,,,,,Practice answers were not saved.
+2026-06-15T19:33:46.894,NVTK75,practice,,practice_finished,,,,,
+2026-06-15T19:33:56.029,NVTK75,main,,main_experiment_started,,,,,
+2026-06-15T19:33:56.030,NVTK75,main,1.0,fixation_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-15T19:34:26.032,NVTK75,main,1.0,fixation_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-15T19:34:26.106,NVTK75,main,1.0,song_listen_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-15T19:36:03.109,NVTK75,main,1.0,origin_shown,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,midpoint_seconds=96.996
+2026-06-15T19:37:41.104,NVTK75,main,1.0,song_listen_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,elapsed=194.997
+2026-06-15T19:38:22.019,NVTK75,main,1.0,song_questionnaire_submitted,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-15T19:38:22.019,NVTK75,main,2.0,fixation_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-15T19:38:52.021,NVTK75,main,2.0,fixation_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-15T19:38:52.090,NVTK75,main,2.0,song_listen_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-15T19:40:40.621,NVTK75,main,2.0,origin_shown,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,midpoint_seconds=108.516
+2026-06-15T19:42:30.239,NVTK75,main,2.0,song_listen_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,elapsed=218.149
+2026-06-15T19:43:04.792,NVTK75,main,2.0,song_questionnaire_submitted,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-15T19:43:04.792,NVTK75,main,3.0,fixation_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-15T19:43:34.796,NVTK75,main,3.0,fixation_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-15T19:43:34.869,NVTK75,main,3.0,song_listen_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-15T19:44:55.900,NVTK75,main,3.0,origin_shown,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,midpoint_seconds=81.012
+2026-06-15T19:46:18.184,NVTK75,main,3.0,song_listen_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,elapsed=163.314
+2026-06-15T19:46:47.473,NVTK75,main,3.0,song_questionnaire_submitted,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-15T19:46:47.473,NVTK75,main,4.0,fixation_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-15T19:47:17.477,NVTK75,main,4.0,fixation_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-15T19:47:17.550,NVTK75,main,4.0,song_listen_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-15T19:49:04.690,NVTK75,main,4.0,origin_shown,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,midpoint_seconds=107.136
+2026-06-15T19:50:52.908,NVTK75,main,4.0,song_listen_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,elapsed=215.358
+2026-06-15T19:51:33.455,NVTK75,main,4.0,song_questionnaire_submitted,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-15T19:51:33.455,NVTK75,main,5.0,fixation_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-15T19:52:03.459,NVTK75,main,5.0,fixation_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-15T19:52:03.517,NVTK75,main,5.0,song_listen_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-15T19:53:46.572,NVTK75,main,5.0,origin_shown,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,midpoint_seconds=103.056
+2026-06-15T19:55:30.304,NVTK75,main,5.0,song_listen_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,elapsed=206.796
+2026-06-15T19:56:01.748,NVTK75,main,5.0,song_questionnaire_submitted,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-15T19:56:01.748,NVTK75,main,6.0,fixation_started,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-15T19:56:31.751,NVTK75,main,6.0,fixation_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-15T19:56:31.809,NVTK75,main,6.0,song_listen_started,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-15T19:58:51.017,NVTK75,main,6.0,origin_shown,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,midpoint_seconds=139.200
+2026-06-15T20:01:11.528,NVTK75,main,6.0,song_listen_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,elapsed=279.718
+2026-06-15T20:01:44.704,NVTK75,main,6.0,song_questionnaire_submitted,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-15T20:01:44.704,NVTK75,main,,main_experiment_finished,,,,,
+2026-06-17T13:36:31.760,KD5ZFN,initial_questionnaire,,initial_questionnaire_submitted,,,,,
+2026-06-17T13:36:31.768,KD5ZFN,practice,,practice_started,,,,,
+2026-06-17T13:37:10.943,KD5ZFN,practice,,practice_fixation_completed,,,,,
+2026-06-17T13:37:16.378,KD5ZFN,practice,0.0,song_listen_started,stimuli/practice/sample.mp3,AI-generated,Human composed,True,
+2026-06-17T13:37:19.600,KD5ZFN,practice,0.0,origin_shown,stimuli/practice/sample.mp3,AI-generated,Human composed,True,midpoint_seconds=3.213
+2026-06-17T13:37:23.421,KD5ZFN,practice,0.0,song_listen_finished,stimuli/practice/sample.mp3,AI-generated,Human composed,True,elapsed=7.043
+2026-06-17T13:37:59.857,KD5ZFN,practice,,practice_questionnaire_completed,,,,,Practice answers were not saved.
+2026-06-17T13:38:01.207,KD5ZFN,practice,,practice_finished,,,,,
+2026-06-17T13:38:04.908,KD5ZFN,main,,main_experiment_started,,,,,
+2026-06-17T13:38:04.908,KD5ZFN,main,1.0,fixation_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-17T13:38:34.911,KD5ZFN,main,1.0,fixation_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-17T13:38:34.983,KD5ZFN,main,1.0,song_listen_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-17T13:40:22.132,KD5ZFN,main,1.0,origin_shown,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,midpoint_seconds=107.136
+2026-06-17T13:42:10.852,KD5ZFN,main,1.0,song_listen_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,elapsed=215.869
+2026-06-17T13:42:32.807,KD5ZFN,main,1.0,song_questionnaire_submitted,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-17T13:42:32.807,KD5ZFN,main,2.0,fixation_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-17T13:43:02.811,KD5ZFN,main,2.0,fixation_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-17T13:43:02.882,KD5ZFN,main,2.0,song_listen_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-17T13:44:23.901,KD5ZFN,main,2.0,origin_shown,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,midpoint_seconds=81.012
+2026-06-17T13:45:45.990,KD5ZFN,main,2.0,song_listen_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,elapsed=163.107
+2026-06-17T13:46:11.274,KD5ZFN,main,2.0,song_questionnaire_submitted,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-17T13:46:11.274,KD5ZFN,main,3.0,fixation_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-17T13:46:41.279,KD5ZFN,main,3.0,fixation_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-17T13:46:41.354,KD5ZFN,main,3.0,song_listen_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-17T13:48:29.883,KD5ZFN,main,3.0,origin_shown,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,midpoint_seconds=108.516
+2026-06-17T13:50:19.594,KD5ZFN,main,3.0,song_listen_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,elapsed=218.240
+2026-06-17T13:50:47.339,KD5ZFN,main,3.0,song_questionnaire_submitted,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-17T13:50:47.339,KD5ZFN,main,4.0,fixation_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-17T13:51:17.342,KD5ZFN,main,4.0,fixation_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-17T13:51:17.415,KD5ZFN,main,4.0,song_listen_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-17T13:53:00.487,KD5ZFN,main,4.0,origin_shown,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,midpoint_seconds=103.056
+2026-06-17T13:54:45.147,KD5ZFN,main,4.0,song_listen_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,elapsed=207.738
+2026-06-17T13:55:10.532,KD5ZFN,main,4.0,song_questionnaire_submitted,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-17T13:55:10.532,KD5ZFN,main,5.0,fixation_started,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-17T13:55:40.536,KD5ZFN,main,5.0,fixation_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-17T13:55:40.610,KD5ZFN,main,5.0,song_listen_started,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-17T13:57:59.813,KD5ZFN,main,5.0,origin_shown,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,midpoint_seconds=139.200
+2026-06-17T14:00:20.339,KD5ZFN,main,5.0,song_listen_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,elapsed=279.729
+2026-06-17T14:00:43.414,KD5ZFN,main,5.0,song_questionnaire_submitted,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-17T14:00:43.414,KD5ZFN,main,6.0,fixation_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-17T14:01:13.417,KD5ZFN,main,6.0,fixation_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-17T14:01:13.486,KD5ZFN,main,6.0,song_listen_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-17T14:02:50.485,KD5ZFN,main,6.0,origin_shown,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,midpoint_seconds=96.996
+2026-06-17T14:04:29.055,KD5ZFN,main,6.0,song_listen_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,elapsed=195.568
+2026-06-17T14:04:52.330,KD5ZFN,main,6.0,song_questionnaire_submitted,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-17T14:04:52.330,KD5ZFN,main,,main_experiment_finished,,,,,
+2026-06-17T14:24:28.259,PXS7AX,initial_questionnaire,,initial_questionnaire_submitted,,,,,
+2026-06-17T14:24:28.263,PXS7AX,practice,,practice_started,,,,,
+2026-06-17T14:25:10.828,PXS7AX,practice,,practice_fixation_completed,,,,,
+2026-06-17T14:25:16.098,PXS7AX,practice,0.0,song_listen_started,stimuli/practice/sample.mp3,AI-generated,Human composed,True,
+2026-06-17T14:25:19.319,PXS7AX,practice,0.0,origin_shown,stimuli/practice/sample.mp3,AI-generated,Human composed,True,midpoint_seconds=3.213
+2026-06-17T14:25:23.905,PXS7AX,practice,0.0,song_listen_finished,stimuli/practice/sample.mp3,AI-generated,Human composed,True,elapsed=7.806
+2026-06-17T14:26:06.574,PXS7AX,practice,,practice_questionnaire_completed,,,,,Practice answers were not saved.
+2026-06-17T14:26:08.257,PXS7AX,practice,,practice_finished,,,,,
+2026-06-17T14:26:12.173,PXS7AX,main,,main_experiment_started,,,,,
+2026-06-17T14:26:12.174,PXS7AX,main,1.0,fixation_started,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-17T14:26:42.177,PXS7AX,main,1.0,fixation_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-17T14:26:42.250,PXS7AX,main,1.0,song_listen_started,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-17T14:29:01.455,PXS7AX,main,1.0,origin_shown,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,midpoint_seconds=139.200
+2026-06-17T14:31:21.772,PXS7AX,main,1.0,song_listen_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,elapsed=279.524
+2026-06-17T14:32:08.187,PXS7AX,main,1.0,song_questionnaire_submitted,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-17T14:32:08.187,PXS7AX,main,2.0,fixation_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-17T14:32:38.191,PXS7AX,main,2.0,fixation_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-17T14:32:38.264,PXS7AX,main,2.0,song_listen_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-17T14:34:21.335,PXS7AX,main,2.0,origin_shown,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,midpoint_seconds=103.056
+2026-06-17T14:36:05.628,PXS7AX,main,2.0,song_listen_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,elapsed=207.365
+2026-06-17T14:36:52.466,PXS7AX,main,2.0,song_questionnaire_submitted,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-17T14:36:52.466,PXS7AX,main,3.0,fixation_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-17T14:37:22.469,PXS7AX,main,3.0,fixation_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-17T14:37:22.542,PXS7AX,main,3.0,song_listen_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-17T14:39:11.071,PXS7AX,main,3.0,origin_shown,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,midpoint_seconds=108.516
+2026-06-17T14:41:00.867,PXS7AX,main,3.0,song_listen_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,elapsed=218.326
+2026-06-17T14:41:29.181,PXS7AX,main,3.0,song_questionnaire_submitted,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-17T14:41:29.181,PXS7AX,main,4.0,fixation_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-17T14:41:59.185,PXS7AX,main,4.0,fixation_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-17T14:41:59.258,PXS7AX,main,4.0,song_listen_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-17T14:43:36.266,PXS7AX,main,4.0,origin_shown,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,midpoint_seconds=96.996
+2026-06-17T14:45:14.395,PXS7AX,main,4.0,song_listen_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,elapsed=195.138
+2026-06-17T14:45:41.827,PXS7AX,main,4.0,song_questionnaire_submitted,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-17T14:45:41.827,PXS7AX,main,5.0,fixation_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-17T14:46:11.831,PXS7AX,main,5.0,fixation_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-17T14:46:11.903,PXS7AX,main,5.0,song_listen_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-17T14:47:59.045,PXS7AX,main,5.0,origin_shown,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,midpoint_seconds=107.136
+2026-06-17T14:49:47.717,PXS7AX,main,5.0,song_listen_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,elapsed=215.815
+2026-06-17T14:50:15.108,PXS7AX,main,5.0,song_questionnaire_submitted,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-17T14:50:15.109,PXS7AX,main,6.0,fixation_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-17T14:50:45.114,PXS7AX,main,6.0,fixation_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-17T14:50:45.185,PXS7AX,main,6.0,song_listen_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-17T14:52:06.205,PXS7AX,main,6.0,origin_shown,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,midpoint_seconds=81.012
+2026-06-17T14:53:28.425,PXS7AX,main,6.0,song_listen_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,elapsed=163.241
+2026-06-17T14:54:11.897,PXS7AX,main,6.0,song_questionnaire_submitted,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-17T14:54:11.897,PXS7AX,main,,main_experiment_finished,,,,,
+2026-06-17T15:30:32.301,25DLWY,initial_questionnaire,,initial_questionnaire_submitted,,,,,
+2026-06-17T15:30:32.304,25DLWY,practice,,practice_started,,,,,
+2026-06-17T15:30:45.522,25DLWY,practice,,practice_fixation_completed,,,,,
+2026-06-17T15:30:47.442,25DLWY,practice,0.0,song_listen_started,stimuli/practice/sample.mp3,AI-generated,Human composed,True,
+2026-06-17T15:30:50.666,25DLWY,practice,0.0,origin_shown,stimuli/practice/sample.mp3,AI-generated,Human composed,True,midpoint_seconds=3.213
+2026-06-17T15:30:54.986,25DLWY,practice,0.0,song_listen_finished,stimuli/practice/sample.mp3,AI-generated,Human composed,True,elapsed=7.544
+2026-06-17T15:31:25.117,25DLWY,practice,,practice_questionnaire_completed,,,,,Practice answers were not saved.
+2026-06-17T15:31:26.368,25DLWY,practice,,practice_finished,,,,,
+2026-06-17T15:31:30.818,25DLWY,main,,main_experiment_started,,,,,
+2026-06-17T15:31:30.819,25DLWY,main,1.0,fixation_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-17T15:32:00.822,25DLWY,main,1.0,fixation_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-17T15:32:00.898,25DLWY,main,1.0,song_listen_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-17T15:33:21.928,25DLWY,main,1.0,origin_shown,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,midpoint_seconds=81.012
+2026-06-17T15:34:44.116,25DLWY,main,1.0,song_listen_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,elapsed=163.213
+2026-06-17T15:35:17.159,25DLWY,main,1.0,song_questionnaire_submitted,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-17T15:35:17.159,25DLWY,main,2.0,fixation_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-17T15:35:47.163,25DLWY,main,2.0,fixation_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-17T15:35:47.238,25DLWY,main,2.0,song_listen_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-17T15:37:34.390,25DLWY,main,2.0,origin_shown,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,midpoint_seconds=107.136
+2026-06-17T15:39:22.883,25DLWY,main,2.0,song_listen_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,elapsed=215.645
+2026-06-17T15:39:58.141,25DLWY,main,2.0,song_questionnaire_submitted,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-17T15:39:58.141,25DLWY,main,3.0,fixation_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-17T15:40:28.145,25DLWY,main,3.0,fixation_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-17T15:40:28.217,25DLWY,main,3.0,song_listen_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-17T15:42:05.229,25DLWY,main,3.0,origin_shown,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,midpoint_seconds=96.996
+2026-06-17T15:43:43.453,25DLWY,main,3.0,song_listen_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,elapsed=195.236
+2026-06-17T15:44:22.140,25DLWY,main,3.0,song_questionnaire_submitted,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-17T15:44:22.140,25DLWY,main,4.0,fixation_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-17T15:44:52.144,25DLWY,main,4.0,fixation_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-17T15:44:52.217,25DLWY,main,4.0,song_listen_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-17T15:46:35.279,25DLWY,main,4.0,origin_shown,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,midpoint_seconds=103.056
+2026-06-17T15:48:19.542,25DLWY,main,4.0,song_listen_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,elapsed=207.325
+2026-06-17T15:48:46.838,25DLWY,main,4.0,song_questionnaire_submitted,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-17T15:48:46.838,25DLWY,main,5.0,fixation_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-17T15:49:16.843,25DLWY,main,5.0,fixation_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-17T15:49:16.918,25DLWY,main,5.0,song_listen_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-17T15:51:05.450,25DLWY,main,5.0,origin_shown,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,midpoint_seconds=108.516
+2026-06-17T15:52:54.968,25DLWY,main,5.0,song_listen_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,elapsed=218.050
+2026-06-17T15:53:20.837,25DLWY,main,5.0,song_questionnaire_submitted,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-17T15:53:20.837,25DLWY,main,6.0,fixation_started,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-17T15:53:50.841,25DLWY,main,6.0,fixation_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-17T15:53:50.915,25DLWY,main,6.0,song_listen_started,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-17T15:56:10.124,25DLWY,main,6.0,origin_shown,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,midpoint_seconds=139.200
+2026-06-17T15:58:30.416,25DLWY,main,6.0,song_listen_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,elapsed=279.501
+2026-06-17T15:58:51.468,25DLWY,main,6.0,song_questionnaire_submitted,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-17T15:58:51.468,25DLWY,main,,main_experiment_finished,,,,,
+2026-06-17T16:08:36.960,57B9UE,initial_questionnaire,,initial_questionnaire_submitted,,,,,
+2026-06-17T16:08:36.962,57B9UE,practice,,practice_started,,,,,
+2026-06-17T16:08:56.078,57B9UE,practice,,practice_fixation_completed,,,,,
+2026-06-17T16:09:01.128,57B9UE,practice,0.0,song_listen_started,stimuli/practice/sample.mp3,AI-generated,Human composed,True,
+2026-06-17T16:09:04.353,57B9UE,practice,0.0,origin_shown,stimuli/practice/sample.mp3,AI-generated,Human composed,True,midpoint_seconds=3.213
+2026-06-17T16:09:09.024,57B9UE,practice,0.0,song_listen_finished,stimuli/practice/sample.mp3,AI-generated,Human composed,True,elapsed=7.896
+2026-06-17T16:09:48.560,57B9UE,practice,,practice_questionnaire_completed,,,,,Practice answers were not saved.
+2026-06-17T16:09:50.780,57B9UE,practice,,practice_finished,,,,,
+2026-06-17T16:09:56.048,57B9UE,main,,main_experiment_started,,,,,
+2026-06-17T16:09:56.048,57B9UE,main,1.0,fixation_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-17T16:10:26.051,57B9UE,main,1.0,fixation_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-17T16:10:26.125,57B9UE,main,1.0,song_listen_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-17T16:11:47.150,57B9UE,main,1.0,origin_shown,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,midpoint_seconds=81.012
+2026-06-17T16:13:09.586,57B9UE,main,1.0,song_listen_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,elapsed=163.460
+2026-06-17T16:13:46.384,57B9UE,main,1.0,song_questionnaire_submitted,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-17T16:13:46.384,57B9UE,main,2.0,fixation_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-17T16:14:16.385,57B9UE,main,2.0,fixation_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-17T16:14:16.430,57B9UE,main,2.0,song_listen_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-17T16:15:59.497,57B9UE,main,2.0,origin_shown,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,midpoint_seconds=103.056
+2026-06-17T16:17:43.589,57B9UE,main,2.0,song_listen_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,elapsed=207.158
+2026-06-17T16:18:11.942,57B9UE,main,2.0,song_questionnaire_submitted,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-17T16:18:11.942,57B9UE,main,3.0,fixation_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-17T16:18:41.945,57B9UE,main,3.0,fixation_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-17T16:18:42.016,57B9UE,main,3.0,song_listen_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-17T16:20:29.173,57B9UE,main,3.0,origin_shown,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,midpoint_seconds=107.136
+2026-06-17T16:22:17.881,57B9UE,main,3.0,song_listen_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,elapsed=215.864
+2026-06-17T16:22:45.527,57B9UE,main,3.0,song_questionnaire_submitted,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-17T16:22:45.527,57B9UE,main,4.0,fixation_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-17T16:23:15.531,57B9UE,main,4.0,fixation_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-17T16:23:15.603,57B9UE,main,4.0,song_listen_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-17T16:24:52.618,57B9UE,main,4.0,origin_shown,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,midpoint_seconds=96.996
+2026-06-17T16:26:31.136,57B9UE,main,4.0,song_listen_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,elapsed=195.532
+2026-06-17T16:26:58.498,57B9UE,main,4.0,song_questionnaire_submitted,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-17T16:26:58.498,57B9UE,main,5.0,fixation_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-17T16:27:28.502,57B9UE,main,5.0,fixation_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-17T16:27:28.569,57B9UE,main,5.0,song_listen_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-17T16:29:17.097,57B9UE,main,5.0,origin_shown,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,midpoint_seconds=108.516
+2026-06-17T16:31:07.000,57B9UE,main,5.0,song_listen_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,elapsed=218.430
+2026-06-17T16:31:34.059,57B9UE,main,5.0,song_questionnaire_submitted,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-17T16:31:34.059,57B9UE,main,6.0,fixation_started,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-17T16:32:04.063,57B9UE,main,6.0,fixation_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-17T16:32:04.133,57B9UE,main,6.0,song_listen_started,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-17T16:34:23.345,57B9UE,main,6.0,origin_shown,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,midpoint_seconds=139.200
+2026-06-17T16:36:43.839,57B9UE,main,6.0,song_listen_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,elapsed=279.732
+2026-06-17T16:37:10.135,57B9UE,main,6.0,song_questionnaire_submitted,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-17T16:37:10.135,57B9UE,main,,main_experiment_finished,,,,,
+2026-06-17T16:44:10.810,3U84EL,initial_questionnaire,,initial_questionnaire_submitted,,,,,
+2026-06-17T16:44:10.813,3U84EL,practice,,practice_started,,,,,
+2026-06-17T16:44:34.727,3U84EL,practice,,practice_fixation_completed,,,,,
+2026-06-17T16:44:36.626,3U84EL,practice,0.0,song_listen_started,stimuli/practice/sample.mp3,AI-generated,Human composed,True,
+2026-06-17T16:44:39.849,3U84EL,practice,0.0,origin_shown,stimuli/practice/sample.mp3,AI-generated,Human composed,True,midpoint_seconds=3.213
+2026-06-17T16:44:44.510,3U84EL,practice,0.0,song_listen_finished,stimuli/practice/sample.mp3,AI-generated,Human composed,True,elapsed=7.884
+2026-06-17T16:45:01.925,3U84EL,practice,,practice_questionnaire_completed,,,,,Practice answers were not saved.
+2026-06-17T16:45:03.509,3U84EL,practice,,practice_finished,,,,,
+2026-06-17T16:45:06.308,3U84EL,main,,main_experiment_started,,,,,
+2026-06-17T16:45:06.309,3U84EL,main,1.0,fixation_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-17T16:45:36.312,3U84EL,main,1.0,fixation_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-17T16:45:36.387,3U84EL,main,1.0,song_listen_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-17T16:47:24.924,3U84EL,main,1.0,origin_shown,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,midpoint_seconds=108.516
+2026-06-17T16:49:14.119,3U84EL,main,1.0,song_listen_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,elapsed=217.732
+2026-06-17T16:49:32.425,3U84EL,main,1.0,song_questionnaire_submitted,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-17T16:49:32.425,3U84EL,main,2.0,fixation_started,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-17T16:50:02.429,3U84EL,main,2.0,fixation_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-17T16:50:02.504,3U84EL,main,2.0,song_listen_started,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-17T16:52:21.720,3U84EL,main,2.0,origin_shown,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,midpoint_seconds=139.200
+2026-06-17T16:54:42.328,3U84EL,main,2.0,song_listen_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,elapsed=279.826
+2026-06-17T16:54:55.804,3U84EL,main,2.0,song_questionnaire_submitted,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-17T16:54:55.804,3U84EL,main,3.0,fixation_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-17T16:55:25.807,3U84EL,main,3.0,fixation_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-17T16:55:25.876,3U84EL,main,3.0,song_listen_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-17T16:57:08.934,3U84EL,main,3.0,origin_shown,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,midpoint_seconds=103.056
+2026-06-17T16:58:53.259,3U84EL,main,3.0,song_listen_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,elapsed=207.383
+2026-06-17T16:59:07.184,3U84EL,main,3.0,song_questionnaire_submitted,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-17T16:59:07.184,3U84EL,main,4.0,fixation_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-17T16:59:37.188,3U84EL,main,4.0,fixation_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-17T16:59:37.260,3U84EL,main,4.0,song_listen_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-17T17:01:14.271,3U84EL,main,4.0,origin_shown,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,midpoint_seconds=96.996
+2026-06-17T17:02:52.438,3U84EL,main,4.0,song_listen_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,elapsed=195.179
+2026-06-17T17:03:05.301,3U84EL,main,4.0,song_questionnaire_submitted,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-17T17:03:05.301,3U84EL,main,5.0,fixation_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-17T17:03:35.305,3U84EL,main,5.0,fixation_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-17T17:03:35.377,3U84EL,main,5.0,song_listen_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-17T17:04:56.405,3U84EL,main,5.0,origin_shown,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,midpoint_seconds=81.012
+2026-06-17T17:06:18.541,3U84EL,main,5.0,song_listen_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,elapsed=163.164
+2026-06-17T17:06:33.847,3U84EL,main,5.0,song_questionnaire_submitted,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-17T17:06:33.848,3U84EL,main,6.0,fixation_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-17T17:07:03.851,3U84EL,main,6.0,fixation_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-17T17:07:03.926,3U84EL,main,6.0,song_listen_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-17T17:08:51.082,3U84EL,main,6.0,origin_shown,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,midpoint_seconds=107.136
+2026-06-17T17:10:39.372,3U84EL,main,6.0,song_listen_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,elapsed=215.441
+2026-06-17T17:10:49.713,3U84EL,main,6.0,song_questionnaire_submitted,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-17T17:10:49.713,3U84EL,main,,main_experiment_finished,,,,,
+2026-06-17T17:17:32.577,WQXDGF,initial_questionnaire,,initial_questionnaire_submitted,,,,,
+2026-06-17T17:17:32.580,WQXDGF,practice,,practice_started,,,,,
+2026-06-17T17:18:07.026,WQXDGF,practice,,practice_fixation_completed,,,,,
+2026-06-17T17:18:13.079,WQXDGF,practice,0.0,song_listen_started,stimuli/practice/sample.mp3,AI-generated,Human composed,True,
+2026-06-17T17:18:16.307,WQXDGF,practice,0.0,origin_shown,stimuli/practice/sample.mp3,AI-generated,Human composed,True,midpoint_seconds=3.213
+2026-06-17T17:18:21.073,WQXDGF,practice,0.0,song_listen_finished,stimuli/practice/sample.mp3,AI-generated,Human composed,True,elapsed=7.994
+2026-06-17T17:19:03.123,WQXDGF,practice,,practice_questionnaire_completed,,,,,Practice answers were not saved.
+2026-06-17T17:19:04.540,WQXDGF,practice,,practice_finished,,,,,
+2026-06-17T17:19:08.925,WQXDGF,main,,main_experiment_started,,,,,
+2026-06-17T17:19:08.926,WQXDGF,main,1.0,fixation_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-17T17:19:38.928,WQXDGF,main,1.0,fixation_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-17T17:19:39.000,WQXDGF,main,1.0,song_listen_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-17T17:21:22.071,WQXDGF,main,1.0,origin_shown,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,midpoint_seconds=103.056
+2026-06-17T17:23:06.634,WQXDGF,main,1.0,song_listen_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,elapsed=207.634
+2026-06-17T17:23:44.036,WQXDGF,main,1.0,song_questionnaire_submitted,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-17T17:23:44.036,WQXDGF,main,2.0,fixation_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-17T17:24:14.041,WQXDGF,main,2.0,fixation_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-17T17:24:14.116,WQXDGF,main,2.0,song_listen_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-17T17:26:02.651,WQXDGF,main,2.0,origin_shown,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,midpoint_seconds=108.516
+2026-06-17T17:27:52.643,WQXDGF,main,2.0,song_listen_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,elapsed=218.528
+2026-06-17T17:28:26.780,WQXDGF,main,2.0,song_questionnaire_submitted,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-17T17:28:26.780,WQXDGF,main,3.0,fixation_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-17T17:28:56.782,WQXDGF,main,3.0,fixation_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-17T17:28:56.857,WQXDGF,main,3.0,song_listen_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-17T17:30:33.865,WQXDGF,main,3.0,origin_shown,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,midpoint_seconds=96.996
+2026-06-17T17:32:12.116,WQXDGF,main,3.0,song_listen_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,elapsed=195.259
+2026-06-17T17:32:35.553,WQXDGF,main,3.0,song_questionnaire_submitted,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-17T17:32:35.553,WQXDGF,main,4.0,fixation_started,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-17T17:33:05.557,WQXDGF,main,4.0,fixation_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-17T17:33:05.631,WQXDGF,main,4.0,song_listen_started,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-17T17:35:24.840,WQXDGF,main,4.0,origin_shown,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,midpoint_seconds=139.200
+2026-06-17T17:37:45.545,WQXDGF,main,4.0,song_listen_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,elapsed=279.914
+2026-06-17T17:38:07.187,WQXDGF,main,4.0,song_questionnaire_submitted,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-17T17:38:07.187,WQXDGF,main,5.0,fixation_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-17T17:38:37.191,WQXDGF,main,5.0,fixation_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-17T17:38:37.258,WQXDGF,main,5.0,song_listen_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-17T17:39:58.277,WQXDGF,main,5.0,origin_shown,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,midpoint_seconds=81.012
+2026-06-17T17:41:20.661,WQXDGF,main,5.0,song_listen_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,elapsed=163.403
+2026-06-17T17:41:41.239,WQXDGF,main,5.0,song_questionnaire_submitted,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-17T17:41:41.239,WQXDGF,main,6.0,fixation_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-17T17:42:11.242,WQXDGF,main,6.0,fixation_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-17T17:42:11.316,WQXDGF,main,6.0,song_listen_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-17T17:43:58.458,WQXDGF,main,6.0,origin_shown,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,midpoint_seconds=107.136
+2026-06-17T17:45:46.908,WQXDGF,main,6.0,song_listen_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,elapsed=215.592
+2026-06-17T17:46:02.587,WQXDGF,main,6.0,song_questionnaire_submitted,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-17T17:46:02.587,WQXDGF,main,,main_experiment_finished,,,,,
+2026-06-17T17:52:12.473,U6J9VR,initial_questionnaire,,initial_questionnaire_submitted,,,,,
+2026-06-17T17:52:12.476,U6J9VR,practice,,practice_started,,,,,
+2026-06-17T17:52:24.931,U6J9VR,practice,,practice_fixation_completed,,,,,
+2026-06-17T17:52:29.376,U6J9VR,practice,0.0,song_listen_started,stimuli/practice/sample.mp3,AI-generated,Human composed,True,
+2026-06-17T17:52:32.599,U6J9VR,practice,0.0,origin_shown,stimuli/practice/sample.mp3,AI-generated,Human composed,True,midpoint_seconds=3.213
+2026-06-17T17:52:37.008,U6J9VR,practice,0.0,song_listen_finished,stimuli/practice/sample.mp3,AI-generated,Human composed,True,elapsed=7.632
+2026-06-17T17:52:56.407,U6J9VR,practice,,practice_questionnaire_completed,,,,,Practice answers were not saved.
+2026-06-17T17:52:57.827,U6J9VR,practice,,practice_finished,,,,,
+2026-06-17T17:53:00.764,U6J9VR,main,,main_experiment_started,,,,,
+2026-06-17T17:53:00.765,U6J9VR,main,1.0,fixation_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-17T17:53:30.768,U6J9VR,main,1.0,fixation_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-17T17:53:30.839,U6J9VR,main,1.0,song_listen_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-17T17:54:51.857,U6J9VR,main,1.0,origin_shown,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,midpoint_seconds=81.012
+2026-06-17T17:56:14.083,U6J9VR,main,1.0,song_listen_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,elapsed=163.245
+2026-06-17T17:56:32.979,U6J9VR,main,1.0,song_questionnaire_submitted,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-17T17:56:32.979,U6J9VR,main,2.0,fixation_started,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-17T17:57:02.983,U6J9VR,main,2.0,fixation_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-17T17:57:03.059,U6J9VR,main,2.0,song_listen_started,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-17T17:59:22.276,U6J9VR,main,2.0,origin_shown,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,midpoint_seconds=139.200
+2026-06-17T18:01:42.946,U6J9VR,main,2.0,song_listen_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,elapsed=279.889
+2026-06-17T18:02:01.038,U6J9VR,main,2.0,song_questionnaire_submitted,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-17T18:02:01.038,U6J9VR,main,3.0,fixation_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-17T18:02:31.041,U6J9VR,main,3.0,fixation_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-17T18:02:31.114,U6J9VR,main,3.0,song_listen_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-17T18:04:18.251,U6J9VR,main,3.0,origin_shown,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,midpoint_seconds=107.136
+2026-06-17T18:06:06.841,U6J9VR,main,3.0,song_listen_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,elapsed=215.728
+2026-06-17T18:06:24.722,U6J9VR,main,3.0,song_questionnaire_submitted,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-17T18:06:24.723,U6J9VR,main,4.0,fixation_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-17T18:06:54.726,U6J9VR,main,4.0,fixation_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-17T18:06:54.800,U6J9VR,main,4.0,song_listen_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-17T18:08:31.806,U6J9VR,main,4.0,origin_shown,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,midpoint_seconds=96.996
+2026-06-17T18:10:10.115,U6J9VR,main,4.0,song_listen_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,elapsed=195.316
+2026-06-17T18:10:27.603,U6J9VR,main,4.0,song_questionnaire_submitted,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-17T18:10:27.604,U6J9VR,main,5.0,fixation_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-17T18:10:57.608,U6J9VR,main,5.0,fixation_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-17T18:10:57.684,U6J9VR,main,5.0,song_listen_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-17T18:12:40.749,U6J9VR,main,5.0,origin_shown,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,midpoint_seconds=103.056
+2026-06-17T18:14:25.289,U6J9VR,main,5.0,song_listen_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,elapsed=207.606
+2026-06-17T18:14:43.564,U6J9VR,main,5.0,song_questionnaire_submitted,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-17T18:14:43.564,U6J9VR,main,6.0,fixation_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-17T18:15:13.568,U6J9VR,main,6.0,fixation_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-17T18:15:13.641,U6J9VR,main,6.0,song_listen_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-17T18:17:02.177,U6J9VR,main,6.0,origin_shown,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,midpoint_seconds=108.516
+2026-06-17T18:18:52.186,U6J9VR,main,6.0,song_listen_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,elapsed=218.525
+2026-06-17T18:19:10.248,U6J9VR,main,6.0,song_questionnaire_submitted,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-17T18:19:10.248,U6J9VR,main,,main_experiment_finished,,,,,
+2026-06-17T18:28:20.780,MBCFCZ,initial_questionnaire,,initial_questionnaire_submitted,,,,,
+2026-06-17T18:28:20.782,MBCFCZ,practice,,practice_started,,,,,
+2026-06-17T18:28:38.249,MBCFCZ,practice,,practice_fixation_completed,,,,,
+2026-06-17T18:28:44.315,MBCFCZ,practice,0.0,song_listen_started,stimuli/practice/sample.mp3,AI-generated,Human composed,True,
+2026-06-17T18:28:47.538,MBCFCZ,practice,0.0,origin_shown,stimuli/practice/sample.mp3,AI-generated,Human composed,True,midpoint_seconds=3.213
+2026-06-17T18:28:52.051,MBCFCZ,practice,0.0,song_listen_finished,stimuli/practice/sample.mp3,AI-generated,Human composed,True,elapsed=7.736
+2026-06-17T18:29:25.571,MBCFCZ,practice,,practice_questionnaire_completed,,,,,Practice answers were not saved.
+2026-06-17T18:29:27.064,MBCFCZ,practice,,practice_finished,,,,,
+2026-06-17T18:29:30.079,MBCFCZ,main,,main_experiment_started,,,,,
+2026-06-17T18:29:30.080,MBCFCZ,main,1.0,fixation_started,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-17T18:30:00.083,MBCFCZ,main,1.0,fixation_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-17T18:30:00.157,MBCFCZ,main,1.0,song_listen_started,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-17T18:32:19.367,MBCFCZ,main,1.0,origin_shown,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,midpoint_seconds=139.200
+2026-06-17T18:34:40.027,MBCFCZ,main,1.0,song_listen_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,elapsed=279.869
+2026-06-17T18:35:07.278,MBCFCZ,main,1.0,song_questionnaire_submitted,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-17T18:35:07.278,MBCFCZ,main,2.0,fixation_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-17T18:35:37.282,MBCFCZ,main,2.0,fixation_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-17T18:35:37.356,MBCFCZ,main,2.0,song_listen_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-17T18:37:24.504,MBCFCZ,main,2.0,origin_shown,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,midpoint_seconds=107.136
+2026-06-17T18:39:12.907,MBCFCZ,main,2.0,song_listen_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,elapsed=215.550
+2026-06-17T18:39:38.579,MBCFCZ,main,2.0,song_questionnaire_submitted,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-17T18:39:38.579,MBCFCZ,main,3.0,fixation_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-17T18:40:08.582,MBCFCZ,main,3.0,fixation_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-17T18:40:08.653,MBCFCZ,main,3.0,song_listen_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-17T18:41:45.664,MBCFCZ,main,3.0,origin_shown,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,midpoint_seconds=96.996
+2026-06-17T18:43:24.087,MBCFCZ,main,3.0,song_listen_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,elapsed=195.434
+2026-06-17T18:43:45.013,MBCFCZ,main,3.0,song_questionnaire_submitted,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-17T18:43:45.013,MBCFCZ,main,4.0,fixation_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-17T18:44:15.017,MBCFCZ,main,4.0,fixation_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-17T18:44:15.094,MBCFCZ,main,4.0,song_listen_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-17T18:46:03.612,MBCFCZ,main,4.0,origin_shown,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,midpoint_seconds=108.516
+2026-06-17T18:47:53.561,MBCFCZ,main,4.0,song_listen_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,elapsed=218.469
+2026-06-17T18:48:10.596,MBCFCZ,main,4.0,song_questionnaire_submitted,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-17T18:48:10.596,MBCFCZ,main,5.0,fixation_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-17T18:48:40.599,MBCFCZ,main,5.0,fixation_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-17T18:48:40.674,MBCFCZ,main,5.0,song_listen_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-17T18:50:01.703,MBCFCZ,main,5.0,origin_shown,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,midpoint_seconds=81.012
+2026-06-17T18:51:24.143,MBCFCZ,main,5.0,song_listen_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,elapsed=163.468
+2026-06-17T18:51:42.531,MBCFCZ,main,5.0,song_questionnaire_submitted,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-17T18:51:42.531,MBCFCZ,main,6.0,fixation_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-17T18:52:12.534,MBCFCZ,main,6.0,fixation_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-17T18:52:12.608,MBCFCZ,main,6.0,song_listen_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-17T18:53:55.675,MBCFCZ,main,6.0,origin_shown,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,midpoint_seconds=103.056
+2026-06-17T18:55:40.292,MBCFCZ,main,6.0,song_listen_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,elapsed=207.684
+2026-06-17T18:56:00.752,MBCFCZ,main,6.0,song_questionnaire_submitted,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-17T18:56:00.752,MBCFCZ,main,,main_experiment_finished,,,,,
+2026-06-19T15:41:15.501,9WBNKV,initial_questionnaire,,initial_questionnaire_submitted,,,,,
+2026-06-19T15:41:15.506,9WBNKV,practice,,practice_started,,,,,
+2026-06-19T15:42:18.154,9WBNKV,practice,,practice_fixation_completed,,,,,
+2026-06-19T15:42:26.139,9WBNKV,practice,0.0,song_listen_started,stimuli/practice/sample.mp3,AI-generated,Human composed,True,
+2026-06-19T15:42:29.361,9WBNKV,practice,0.0,origin_shown,stimuli/practice/sample.mp3,AI-generated,Human composed,True,midpoint_seconds=3.213
+2026-06-19T15:42:33.713,9WBNKV,practice,0.0,song_listen_finished,stimuli/practice/sample.mp3,AI-generated,Human composed,True,elapsed=7.574
+2026-06-19T15:43:52.150,9WBNKV,practice,,practice_questionnaire_completed,,,,,Practice answers were not saved.
+2026-06-19T15:43:54.999,9WBNKV,practice,,practice_finished,,,,,
+2026-06-19T15:44:01.200,9WBNKV,main,,main_experiment_started,,,,,
+2026-06-19T15:44:01.201,9WBNKV,main,1.0,fixation_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-19T15:44:31.205,9WBNKV,main,1.0,fixation_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-19T15:44:31.274,9WBNKV,main,1.0,song_listen_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-19T15:46:19.807,9WBNKV,main,1.0,origin_shown,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,midpoint_seconds=108.516
+2026-06-19T15:48:09.461,9WBNKV,main,1.0,song_listen_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,elapsed=218.188
+2026-06-19T15:48:52.185,9WBNKV,main,1.0,song_questionnaire_submitted,stimuli/experiment/sun-through-blinds.mp3,AI-generated,AI-generated,False,
+2026-06-19T15:48:52.185,9WBNKV,main,2.0,fixation_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-19T15:49:22.189,9WBNKV,main,2.0,fixation_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-19T15:49:22.255,9WBNKV,main,2.0,song_listen_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-19T15:50:43.274,9WBNKV,main,2.0,origin_shown,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,midpoint_seconds=81.012
+2026-06-19T15:52:05.338,9WBNKV,main,2.0,song_listen_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,elapsed=163.083
+2026-06-19T15:52:34.813,9WBNKV,main,2.0,song_questionnaire_submitted,stimuli/experiment/warm-light-patio.mp3,AI-generated,Human composed,True,
+2026-06-19T15:52:34.813,9WBNKV,main,3.0,fixation_started,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-19T15:53:04.817,9WBNKV,main,3.0,fixation_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-19T15:53:04.889,9WBNKV,main,3.0,song_listen_started,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-19T15:55:24.089,9WBNKV,main,3.0,origin_shown,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,midpoint_seconds=139.200
+2026-06-19T15:57:44.467,9WBNKV,main,3.0,song_listen_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,elapsed=279.579
+2026-06-19T15:58:11.412,9WBNKV,main,3.0,song_questionnaire_submitted,stimuli/experiment/red-motel-key.mp3,AI-generated,AI-generated,False,
+2026-06-19T15:58:11.412,9WBNKV,main,4.0,fixation_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-19T15:58:41.416,9WBNKV,main,4.0,fixation_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-19T15:58:41.490,9WBNKV,main,4.0,song_listen_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-19T16:00:24.567,9WBNKV,main,4.0,origin_shown,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,midpoint_seconds=103.056
+2026-06-19T16:02:08.614,9WBNKV,main,4.0,song_listen_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,elapsed=207.117
+2026-06-19T16:02:29.300,9WBNKV,main,4.0,song_questionnaire_submitted,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,Human composed,True,
+2026-06-19T16:02:29.300,9WBNKV,main,5.0,fixation_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-19T16:02:59.304,9WBNKV,main,5.0,fixation_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-19T16:02:59.376,9WBNKV,main,5.0,song_listen_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-19T16:04:46.531,9WBNKV,main,5.0,origin_shown,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,midpoint_seconds=107.136
+2026-06-19T16:06:34.748,9WBNKV,main,5.0,song_listen_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,elapsed=215.372
+2026-06-19T16:07:05.114,9WBNKV,main,5.0,song_questionnaire_submitted,stimuli/experiment/violins-&-sand.mp3,AI-generated,AI-generated,False,
+2026-06-19T16:07:05.114,9WBNKV,main,6.0,fixation_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-19T16:07:35.117,9WBNKV,main,6.0,fixation_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-19T16:07:35.187,9WBNKV,main,6.0,song_listen_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-19T16:09:12.197,9WBNKV,main,6.0,origin_shown,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,midpoint_seconds=96.996
+2026-06-19T16:10:50.241,9WBNKV,main,6.0,song_listen_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,elapsed=195.054
+2026-06-19T16:11:20.064,9WBNKV,main,6.0,song_questionnaire_submitted,stimuli/experiment/old-blue-sheet.mp3,AI-generated,Human composed,True,
+2026-06-19T16:11:20.064,9WBNKV,main,,main_experiment_finished,,,,,
+2026-06-19T16:21:08.076,ZSREG4,initial_questionnaire,,initial_questionnaire_submitted,,,,,
+2026-06-19T16:21:08.078,ZSREG4,practice,,practice_started,,,,,
+2026-06-19T16:21:39.059,ZSREG4,practice,,practice_fixation_completed,,,,,
+2026-06-19T16:21:47.456,ZSREG4,practice,0.0,song_listen_started,stimuli/practice/sample.mp3,AI-generated,Human composed,True,
+2026-06-19T16:21:50.681,ZSREG4,practice,0.0,origin_shown,stimuli/practice/sample.mp3,AI-generated,Human composed,True,midpoint_seconds=3.213
+2026-06-19T16:21:55.004,ZSREG4,practice,0.0,song_listen_finished,stimuli/practice/sample.mp3,AI-generated,Human composed,True,elapsed=7.548
+2026-06-19T16:22:33.938,ZSREG4,practice,,practice_questionnaire_completed,,,,,Practice answers were not saved.
+2026-06-19T16:22:36.565,ZSREG4,practice,,practice_finished,,,,,
+2026-06-19T16:22:40.761,ZSREG4,main,,main_experiment_started,,,,,
+2026-06-19T16:22:40.762,ZSREG4,main,1.0,fixation_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-19T16:23:10.764,ZSREG4,main,1.0,fixation_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-19T16:23:10.838,ZSREG4,main,1.0,song_listen_started,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-19T16:24:57.988,ZSREG4,main,1.0,origin_shown,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,midpoint_seconds=107.136
+2026-06-19T16:26:46.240,ZSREG4,main,1.0,song_listen_finished,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,elapsed=215.402
+2026-06-19T16:27:20.175,ZSREG4,main,1.0,song_questionnaire_submitted,stimuli/experiment/violins-&-sand.mp3,AI-generated,Human composed,True,
+2026-06-19T16:27:20.175,ZSREG4,main,2.0,fixation_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-19T16:27:50.179,ZSREG4,main,2.0,fixation_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-19T16:27:50.247,ZSREG4,main,2.0,song_listen_started,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-19T16:29:27.260,ZSREG4,main,2.0,origin_shown,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,midpoint_seconds=96.996
+2026-06-19T16:31:05.431,ZSREG4,main,2.0,song_listen_finished,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,elapsed=195.184
+2026-06-19T16:31:29.575,ZSREG4,main,2.0,song_questionnaire_submitted,stimuli/experiment/old-blue-sheet.mp3,AI-generated,AI-generated,False,
+2026-06-19T16:31:29.576,ZSREG4,main,3.0,fixation_started,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-19T16:31:59.580,ZSREG4,main,3.0,fixation_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-19T16:31:59.651,ZSREG4,main,3.0,song_listen_started,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-19T16:34:18.860,ZSREG4,main,3.0,origin_shown,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,midpoint_seconds=139.200
+2026-06-19T16:36:39.201,ZSREG4,main,3.0,song_listen_finished,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,elapsed=279.545
+2026-06-19T16:36:59.209,ZSREG4,main,3.0,song_questionnaire_submitted,stimuli/experiment/red-motel-key.mp3,AI-generated,Human composed,True,
+2026-06-19T16:36:59.209,ZSREG4,main,4.0,fixation_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-19T16:37:29.212,ZSREG4,main,4.0,fixation_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-19T16:37:29.282,ZSREG4,main,4.0,song_listen_started,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-19T16:38:50.308,ZSREG4,main,4.0,origin_shown,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,midpoint_seconds=81.012
+2026-06-19T16:40:12.389,ZSREG4,main,4.0,song_listen_finished,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,elapsed=163.105
+2026-06-19T16:40:35.309,ZSREG4,main,4.0,song_questionnaire_submitted,stimuli/experiment/warm-light-patio.mp3,AI-generated,AI-generated,False,
+2026-06-19T16:40:35.310,ZSREG4,main,5.0,fixation_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-19T16:41:05.313,ZSREG4,main,5.0,fixation_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-19T16:41:05.386,ZSREG4,main,5.0,song_listen_started,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-19T16:42:48.457,ZSREG4,main,5.0,origin_shown,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,midpoint_seconds=103.056
+2026-06-19T16:44:32.502,ZSREG4,main,5.0,song_listen_finished,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,elapsed=207.114
+2026-06-19T16:44:54.841,ZSREG4,main,5.0,song_questionnaire_submitted,stimuli/experiment/guitar-vinaigrette.mp3,AI-generated,AI-generated,False,
+2026-06-19T16:44:54.841,ZSREG4,main,6.0,fixation_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-19T16:45:24.844,ZSREG4,main,6.0,fixation_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-19T16:45:24.915,ZSREG4,main,6.0,song_listen_started,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-19T16:47:13.449,ZSREG4,main,6.0,origin_shown,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,midpoint_seconds=108.516
+2026-06-19T16:49:03.109,ZSREG4,main,6.0,song_listen_finished,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,elapsed=218.192
+2026-06-19T16:49:18.979,ZSREG4,main,6.0,song_questionnaire_submitted,stimuli/experiment/sun-through-blinds.mp3,AI-generated,Human composed,True,
+2026-06-19T16:49:18.979,ZSREG4,main,,main_experiment_finished,,,,,

@@ -1,0 +1,151 @@
+participant_id,trial_index,song_file,song_title,true_origin,shown_origin,mislabeled,duration_seconds
+5NAQJ3,1,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,AI-generated,False,206.112
+5NAQJ3,2,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,AI-generated,False,217.032
+5NAQJ3,3,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,Human composed,True,162.024
+5NAQJ3,4,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,Human composed,True,193.992
+5NAQJ3,5,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,AI-generated,False,278.4
+5NAQJ3,6,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,214.272
+2RCVGN,1,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,AI-generated,False,206.112
+2RCVGN,2,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,AI-generated,False,193.992
+2RCVGN,3,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,214.272
+2RCVGN,4,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,Human composed,True,278.4
+2RCVGN,5,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,AI-generated,False,217.032
+2RCVGN,6,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,Human composed,True,162.024
+9FRRF6,1,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,AI-generated,False,193.992
+9FRRF6,2,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,AI-generated,False,214.272
+9FRRF6,3,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,AI-generated,False,217.032
+9FRRF6,4,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,Human composed,True,278.4
+9FRRF6,5,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,Human composed,True,162.024
+9FRRF6,6,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,Human composed,True,206.112
+4XU4M9,1,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,Human composed,True,206.112
+4XU4M9,2,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,AI-generated,False,193.992
+4XU4M9,3,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,Human composed,True,217.032
+4XU4M9,4,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,AI-generated,False,278.4
+4XU4M9,5,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,214.272
+4XU4M9,6,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,AI-generated,False,162.024
+GKQ4V7,1,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,214.272
+GKQ4V7,2,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,Human composed,True,206.112
+GKQ4V7,3,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,AI-generated,False,217.032
+GKQ4V7,4,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,Human composed,True,278.4
+GKQ4V7,5,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,AI-generated,False,193.992
+GKQ4V7,6,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,AI-generated,False,162.024
+E5KGNR,1,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,AI-generated,False,214.272
+E5KGNR,2,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,AI-generated,False,217.032
+E5KGNR,3,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,Human composed,True,278.4
+E5KGNR,4,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,AI-generated,False,193.992
+E5KGNR,5,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,Human composed,True,162.024
+E5KGNR,6,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,Human composed,True,206.112
+P7M2VU,1,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,AI-generated,False,193.992
+P7M2VU,2,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,AI-generated,False,217.032
+P7M2VU,3,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,Human composed,True,162.024
+P7M2VU,4,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,214.272
+P7M2VU,5,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,Human composed,True,278.4
+P7M2VU,6,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,AI-generated,False,206.112
+37X57U,1,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,Human composed,True,217.032
+37X57U,2,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,AI-generated,False,206.112
+37X57U,3,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,Human composed,True,193.992
+37X57U,4,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,AI-generated,False,214.272
+37X57U,5,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,Human composed,True,278.4
+37X57U,6,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,AI-generated,False,162.024
+BX57PN,1,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,214.272
+BX57PN,2,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,AI-generated,False,193.992
+BX57PN,3,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,AI-generated,False,162.024
+BX57PN,4,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,Human composed,True,278.4
+BX57PN,5,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,AI-generated,False,206.112
+BX57PN,6,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,Human composed,True,217.032
+RQLMGW,1,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,214.272
+RQLMGW,2,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,Human composed,True,206.112
+RQLMGW,3,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,AI-generated,False,278.4
+RQLMGW,4,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,Human composed,True,162.024
+RQLMGW,5,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,AI-generated,False,193.992
+RQLMGW,6,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,AI-generated,False,217.032
+VNTXA6,1,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,AI-generated,False,278.4
+VNTXA6,2,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,Human composed,True,162.024
+VNTXA6,3,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,AI-generated,False,193.992
+VNTXA6,4,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,214.272
+VNTXA6,5,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,Human composed,True,217.032
+VNTXA6,6,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,AI-generated,False,206.112
+SWEPBP,1,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,Human composed,True,206.112
+SWEPBP,2,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,Human composed,True,217.032
+SWEPBP,3,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,AI-generated,False,193.992
+SWEPBP,4,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,AI-generated,False,162.024
+SWEPBP,5,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,Human composed,True,278.4
+SWEPBP,6,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,AI-generated,False,214.272
+JGNUMT,1,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,Human composed,True,278.4
+JGNUMT,2,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,AI-generated,False,162.024
+JGNUMT,3,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,Human composed,True,217.032
+JGNUMT,4,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,AI-generated,False,214.272
+JGNUMT,5,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,AI-generated,False,206.112
+JGNUMT,6,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,Human composed,True,193.992
+C5C7VS,1,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,Human composed,True,162.024
+C5C7VS,2,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,AI-generated,False,278.4
+C5C7VS,3,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,AI-generated,False,217.032
+C5C7VS,4,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,AI-generated,False,214.272
+C5C7VS,5,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,Human composed,True,206.112
+C5C7VS,6,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,Human composed,True,193.992
+NVTK75,1,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,Human composed,True,193.992
+NVTK75,2,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,AI-generated,False,217.032
+NVTK75,3,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,Human composed,True,162.024
+NVTK75,4,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,214.272
+NVTK75,5,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,AI-generated,False,206.112
+NVTK75,6,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,AI-generated,False,278.4
+KD5ZFN,1,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,214.272
+KD5ZFN,2,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,AI-generated,False,162.024
+KD5ZFN,3,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,AI-generated,False,217.032
+KD5ZFN,4,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,Human composed,True,206.112
+KD5ZFN,5,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,Human composed,True,278.4
+KD5ZFN,6,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,AI-generated,False,193.992
+PXS7AX,1,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,Human composed,True,278.4
+PXS7AX,2,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,AI-generated,False,206.112
+PXS7AX,3,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,Human composed,True,217.032
+PXS7AX,4,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,AI-generated,False,193.992
+PXS7AX,5,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,214.272
+PXS7AX,6,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,AI-generated,False,162.024
+25DLWY,1,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,AI-generated,False,162.024
+25DLWY,2,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,214.272
+25DLWY,3,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,Human composed,True,193.992
+25DLWY,4,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,AI-generated,False,206.112
+25DLWY,5,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,Human composed,True,217.032
+25DLWY,6,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,AI-generated,False,278.4
+57B9UE,1,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,Human composed,True,162.024
+57B9UE,2,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,AI-generated,False,206.112
+57B9UE,3,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,AI-generated,False,214.272
+57B9UE,4,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,Human composed,True,193.992
+57B9UE,5,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,Human composed,True,217.032
+57B9UE,6,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,AI-generated,False,278.4
+3U84EL,1,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,AI-generated,False,217.032
+3U84EL,2,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,AI-generated,False,278.4
+3U84EL,3,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,AI-generated,False,206.112
+3U84EL,4,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,Human composed,True,193.992
+3U84EL,5,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,Human composed,True,162.024
+3U84EL,6,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,214.272
+WQXDGF,1,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,Human composed,True,206.112
+WQXDGF,2,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,AI-generated,False,217.032
+WQXDGF,3,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,AI-generated,False,193.992
+WQXDGF,4,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,Human composed,True,278.4
+WQXDGF,5,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,AI-generated,False,162.024
+WQXDGF,6,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,214.272
+U6J9VR,1,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,Human composed,True,162.024
+U6J9VR,2,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,AI-generated,False,278.4
+U6J9VR,3,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,214.272
+U6J9VR,4,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,AI-generated,False,193.992
+U6J9VR,5,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,AI-generated,False,206.112
+U6J9VR,6,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,Human composed,True,217.032
+MBCFCZ,1,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,AI-generated,False,278.4
+MBCFCZ,2,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,AI-generated,False,214.272
+MBCFCZ,3,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,Human composed,True,193.992
+MBCFCZ,4,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,Human composed,True,217.032
+MBCFCZ,5,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,AI-generated,False,162.024
+MBCFCZ,6,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,Human composed,True,206.112
+9WBNKV,1,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,AI-generated,False,217.032
+9WBNKV,2,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,Human composed,True,162.024
+9WBNKV,3,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,AI-generated,False,278.4
+9WBNKV,4,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,Human composed,True,206.112
+9WBNKV,5,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,AI-generated,False,214.272
+9WBNKV,6,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,Human composed,True,193.992
+ZSREG4,1,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,214.272
+ZSREG4,2,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,AI-generated,False,193.992
+ZSREG4,3,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,Human composed,True,278.4
+ZSREG4,4,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,AI-generated,False,162.024
+ZSREG4,5,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,AI-generated,False,206.112
+ZSREG4,6,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,Human composed,True,217.032

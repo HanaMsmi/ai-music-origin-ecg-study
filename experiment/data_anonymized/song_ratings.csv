@@ -1,0 +1,140 @@
+participant_id,trial_index,song_file,song_title,true_origin,shown_origin,mislabeled,enjoy_before_origin,enjoy_after_origin,musical_quality,surprised_by_origin,origin_changed_experience
+5NAQJ3,1,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,AI-generated,False,Extremely,Extremely,Very much,Extremely,Not at all
+5NAQJ3,2,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,AI-generated,False,Moderately,Quite a lot,Quite a lot,Extremely,Slightly
+5NAQJ3,3,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,Human composed,True,Very much,Very much,Quite a lot,Not at all,Not at all
+5NAQJ3,4,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,Human composed,True,Extremely,Extremely,Very much,Not at all,Not at all
+5NAQJ3,5,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,AI-generated,False,Quite a lot,Quite a lot,Very much,Slightly,Not at all
+5NAQJ3,6,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,Very much,Very much,Very much,Slightly,Not at all
+9FRRF6,1,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,AI-generated,False,Quite a lot,Very much,Very much,Extremely,Quite a lot
+9FRRF6,2,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,AI-generated,False,Moderately,Very little,Moderately,Slightly,Quite a lot
+9FRRF6,3,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,AI-generated,False,Moderately,Moderately,Quite a lot,Moderately,Slightly
+9FRRF6,4,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,Human composed,True,Quite a lot,Moderately,Quite a lot,Slightly,Very little
+9FRRF6,5,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,Human composed,True,Very little,Not at all,Very little,Very little,Moderately
+9FRRF6,6,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,Human composed,True,Very little,Very little,Slightly,Very little,Very little
+4XU4M9,1,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,Human composed,True,Quite a lot,Quite a lot,Very much,Not at all,Not at all
+4XU4M9,2,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,AI-generated,False,Very much,Very much,Extremely,Quite a lot,Moderately
+4XU4M9,3,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,Human composed,True,Extremely,Extremely,Very much,Not at all,Not at all
+4XU4M9,4,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,AI-generated,False,Quite a lot,Quite a lot,Very much,Slightly,Slightly
+4XU4M9,5,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,Slightly,Slightly,Very much,Not at all,Not at all
+4XU4M9,6,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,AI-generated,False,Very much,Very much,Very much,Slightly,Slightly
+GKQ4V7,1,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,Very much,Very much,Very much,Very little,Not at all
+GKQ4V7,2,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,Human composed,True,Moderately,Moderately,Moderately,Quite a lot,Quite a lot
+GKQ4V7,3,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,AI-generated,False,Quite a lot,Moderately,Quite a lot,Very little,Slightly
+GKQ4V7,4,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,Human composed,True,Moderately,Very much,Moderately,Moderately,Slightly
+GKQ4V7,5,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,AI-generated,False,Very little,Very little,Very little,Not at all,Very little
+GKQ4V7,6,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,AI-generated,False,Slightly,Slightly,Very little,Not at all,Not at all
+E5KGNR,1,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,AI-generated,False,Very much,Quite a lot,Not at all,Extremely,Very much
+P7M2VU,1,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,AI-generated,False,Quite a lot,Very little,Very much,Quite a lot,Moderately
+P7M2VU,2,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,AI-generated,False,Very much,Moderately,Very much,Quite a lot,Moderately
+P7M2VU,3,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,Human composed,True,Very much,Very much,Very much,Not at all,Not at all
+P7M2VU,4,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,Quite a lot,Very much,Very much,Slightly,Very much
+P7M2VU,5,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,Human composed,True,Very little,Slightly,Moderately,Quite a lot,Slightly
+P7M2VU,6,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,AI-generated,False,Very much,Moderately,Very much,Quite a lot,Quite a lot
+37X57U,1,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,Human composed,True,Very much,Very much,Extremely,Quite a lot,Not at all
+37X57U,2,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,AI-generated,False,Moderately,Moderately,Quite a lot,Very much,Very little
+37X57U,3,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,Human composed,True,Quite a lot,Quite a lot,Extremely,Not at all,Not at all
+37X57U,4,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,AI-generated,False,Very much,Very much,Extremely,Extremely,Slightly
+37X57U,5,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,Human composed,True,Moderately,Moderately,Quite a lot,Not at all,Not at all
+37X57U,6,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,AI-generated,False,Extremely,Extremely,Extremely,Extremely,Very little
+BX57PN,1,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,Slightly,Quite a lot,Moderately,Very much,Moderately
+BX57PN,2,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,AI-generated,False,Very much,Slightly,Quite a lot,Very much,Quite a lot
+BX57PN,3,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,AI-generated,False,Moderately,Moderately,Slightly,Slightly,Moderately
+BX57PN,4,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,Human composed,True,Quite a lot,Very much,Very much,Slightly,Quite a lot
+BX57PN,5,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,AI-generated,False,Moderately,Moderately,Quite a lot,Moderately,Moderately
+BX57PN,6,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,Human composed,True,Very much,Very much,Very much,Moderately,Very much
+RQLMGW,1,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,Very much,Very much,Very much,Very little,Not at all
+RQLMGW,2,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,Human composed,True,Quite a lot,Very much,Moderately,Quite a lot,Moderately
+RQLMGW,3,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,AI-generated,False,Extremely,Very much,Extremely,Extremely,Quite a lot
+RQLMGW,4,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,Human composed,True,Very much,Extremely,Quite a lot,Moderately,Moderately
+RQLMGW,5,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,AI-generated,False,Extremely,Very much,Extremely,Extremely,Moderately
+RQLMGW,6,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,AI-generated,False,Extremely,Moderately,Extremely,Extremely,Quite a lot
+VNTXA6,1,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,AI-generated,False,Extremely,Extremely,Quite a lot,Not at all,Not at all
+VNTXA6,2,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,Human composed,True,Extremely,Extremely,Not at all,Not at all,Not at all
+VNTXA6,3,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,AI-generated,False,Extremely,Extremely,Slightly,Not at all,Not at all
+VNTXA6,4,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,Extremely,Extremely,Extremely,Not at all,Not at all
+VNTXA6,5,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,Human composed,True,Extremely,Extremely,Moderately,Quite a lot,Moderately
+VNTXA6,6,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,AI-generated,False,Moderately,Moderately,Quite a lot,Not at all,Not at all
+SWEPBP,1,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,Human composed,True,Quite a lot,Quite a lot,Very much,Not at all,Not at all
+SWEPBP,2,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,Human composed,True,Extremely,Quite a lot,Very much,Very little,Not at all
+SWEPBP,3,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,AI-generated,False,Very much,Very much,Very much,Extremely,Moderately
+SWEPBP,4,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,AI-generated,False,Quite a lot,Quite a lot,Quite a lot,Very much,Quite a lot
+SWEPBP,5,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,Human composed,True,Quite a lot,Very much,Quite a lot,Moderately,Not at all
+SWEPBP,6,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,AI-generated,False,Moderately,Moderately,Slightly,Not at all,Not at all
+JGNUMT,1,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,Human composed,True,Very much,Very much,Extremely,Not at all,Not at all
+JGNUMT,2,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,AI-generated,False,Quite a lot,Moderately,Quite a lot,Very little,Not at all
+JGNUMT,3,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,Human composed,True,Extremely,Extremely,Extremely,Not at all,Slightly
+JGNUMT,4,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,AI-generated,False,Extremely,Quite a lot,Extremely,Very little,Very little
+JGNUMT,5,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,AI-generated,False,Moderately,Very little,Slightly,Very little,Very little
+JGNUMT,6,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,Human composed,True,Very little,Very little,Moderately,Very little,Not at all
+C5C7VS,1,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,Human composed,True,Slightly,Slightly,Slightly,Moderately,Slightly
+C5C7VS,2,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,AI-generated,False,Very little,Very little,Very little,Very little,Slightly
+C5C7VS,3,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,AI-generated,False,Moderately,Moderately,Quite a lot,Quite a lot,Moderately
+C5C7VS,4,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,AI-generated,False,Very much,Quite a lot,Very much,Moderately,Very much
+C5C7VS,5,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,Human composed,True,Very much,Very much,Very much,Extremely,Very much
+C5C7VS,6,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,Human composed,True,Very much,Quite a lot,Very much,Quite a lot,Extremely
+NVTK75,1,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,Human composed,True,Slightly,Quite a lot,Very much,Moderately,Extremely
+NVTK75,2,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,AI-generated,False,Very much,Moderately,Moderately,Extremely,Quite a lot
+NVTK75,3,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,Human composed,True,Very much,Very much,Extremely,Not at all,Not at all
+NVTK75,4,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,Moderately,Moderately,Quite a lot,Very much,Very little
+NVTK75,5,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,AI-generated,False,Quite a lot,Quite a lot,Moderately,Very little,Slightly
+NVTK75,6,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,AI-generated,False,Quite a lot,Quite a lot,Very much,Very much,Moderately
+KD5ZFN,1,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,Very much,Very much,Very much,Not at all,Not at all
+KD5ZFN,2,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,AI-generated,False,Moderately,Moderately,Slightly,Not at all,Not at all
+KD5ZFN,3,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,AI-generated,False,Quite a lot,Quite a lot,Slightly,Quite a lot,Very little
+KD5ZFN,4,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,Human composed,True,Moderately,Moderately,Moderately,Slightly,Not at all
+KD5ZFN,5,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,Human composed,True,Quite a lot,Quite a lot,Very much,Slightly,Very little
+KD5ZFN,6,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,AI-generated,False,Moderately,Moderately,Quite a lot,Not at all,Not at all
+PXS7AX,1,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,Human composed,True,Moderately,Moderately,Moderately,Very little,Very little
+PXS7AX,2,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,AI-generated,False,Slightly,Slightly,Moderately,Slightly,Slightly
+PXS7AX,3,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,Human composed,True,Very little,Very little,Quite a lot,Not at all,Not at all
+PXS7AX,4,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,AI-generated,False,Moderately,Slightly,Moderately,Moderately,Slightly
+PXS7AX,5,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,Moderately,Moderately,Quite a lot,Quite a lot,Very little
+PXS7AX,6,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,AI-generated,False,Moderately,Very little,Moderately,Slightly,Moderately
+25DLWY,1,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,AI-generated,False,Quite a lot,Moderately,Quite a lot,Very little,Very little
+25DLWY,2,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,Slightly,Slightly,Very little,Quite a lot,Moderately
+25DLWY,3,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,Human composed,True,Quite a lot,Very much,Quite a lot,Not at all,Quite a lot
+25DLWY,4,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,AI-generated,False,Slightly,Very little,Very little,Not at all,Slightly
+25DLWY,5,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,Human composed,True,Quite a lot,Quite a lot,Very much,Not at all,Not at all
+25DLWY,6,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,AI-generated,False,Quite a lot,Quite a lot,Quite a lot,Very little,Not at all
+57B9UE,1,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,Human composed,True,Quite a lot,Moderately,Moderately,Quite a lot,Moderately
+57B9UE,2,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,AI-generated,False,Very little,Not at all,Not at all,Very little,Not at all
+57B9UE,3,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,AI-generated,False,Very much,Very much,Very much,Very much,Very little
+57B9UE,4,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,Human composed,True,Quite a lot,Moderately,Moderately,Quite a lot,Very little
+57B9UE,5,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,Human composed,True,Very much,Very much,Very much,Not at all,Not at all
+57B9UE,6,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,AI-generated,False,Very little,Not at all,Very little,Not at all,Not at all
+3U84EL,1,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,AI-generated,False,Moderately,Slightly,Slightly,Slightly,Slightly
+3U84EL,2,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,AI-generated,False,Very little,Very little,Very little,Not at all,Not at all
+3U84EL,3,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,AI-generated,False,Slightly,Very little,Slightly,Not at all,Very little
+3U84EL,4,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,Human composed,True,Very little,Very little,Slightly,Not at all,Not at all
+3U84EL,5,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,Human composed,True,Moderately,Moderately,Quite a lot,Not at all,Not at all
+3U84EL,6,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,Moderately,Moderately,Moderately,Not at all,Not at all
+WQXDGF,1,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,Human composed,True,Quite a lot,Very much,Quite a lot,Not at all,Moderately
+WQXDGF,2,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,AI-generated,False,Moderately,Moderately,Quite a lot,Very little,Not at all
+WQXDGF,3,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,AI-generated,False,Quite a lot,Quite a lot,Very much,Very much,Very little
+WQXDGF,4,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,Human composed,True,Moderately,Moderately,Moderately,Very little,Not at all
+WQXDGF,5,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,AI-generated,False,Quite a lot,Quite a lot,Very much,Moderately,Not at all
+WQXDGF,6,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,Extremely,Extremely,Extremely,Not at all,Not at all
+U6J9VR,1,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,Human composed,True,Moderately,Moderately,Quite a lot,Not at all,Very little
+U6J9VR,2,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,AI-generated,False,Quite a lot,Very little,Moderately,Very much,Very much
+U6J9VR,3,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,Moderately,Very much,Quite a lot,Very much,Quite a lot
+U6J9VR,4,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,AI-generated,False,Quite a lot,Not at all,Slightly,Quite a lot,Very much
+U6J9VR,5,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,AI-generated,False,Very much,Very little,Moderately,Very much,Very much
+U6J9VR,6,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,Human composed,True,Quite a lot,Very much,Very much,Not at all,Slightly
+MBCFCZ,1,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,AI-generated,False,Quite a lot,Very much,Quite a lot,Very much,Moderately
+MBCFCZ,2,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,AI-generated,False,Quite a lot,Slightly,Extremely,Slightly,Slightly
+MBCFCZ,3,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,Human composed,True,Very much,Extremely,Extremely,Not at all,Not at all
+MBCFCZ,4,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,Human composed,True,Extremely,Extremely,Extremely,Not at all,Very little
+MBCFCZ,5,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,AI-generated,False,Quite a lot,Moderately,Very much,Extremely,Moderately
+MBCFCZ,6,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,Human composed,True,Moderately,Very little,Moderately,Very much,Moderately
+9WBNKV,1,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,AI-generated,False,Quite a lot,Very much,Moderately,Very much,Quite a lot
+9WBNKV,2,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,Human composed,True,Extremely,Quite a lot,Quite a lot,Very much,Moderately
+9WBNKV,3,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,AI-generated,False,Slightly,Moderately,Slightly,Very little,Slightly
+9WBNKV,4,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,Human composed,True,Extremely,Extremely,Very much,Not at all,Very little
+9WBNKV,5,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,AI-generated,False,Quite a lot,Quite a lot,Very much,Slightly,Slightly
+9WBNKV,6,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,Human composed,True,Slightly,Slightly,Quite a lot,Very little,Very little
+ZSREG4,1,stimuli/experiment/violins-&-sand.mp3,violins-&-sand,AI-generated,Human composed,True,Very much,Very much,Extremely,Extremely,Quite a lot
+ZSREG4,2,stimuli/experiment/old-blue-sheet.mp3,old-blue-sheet,AI-generated,AI-generated,False,Extremely,Quite a lot,Very much,Quite a lot,Quite a lot
+ZSREG4,3,stimuli/experiment/red-motel-key.mp3,red-motel-key,AI-generated,Human composed,True,Very much,Very much,Very much,Quite a lot,Very much
+ZSREG4,4,stimuli/experiment/warm-light-patio.mp3,warm-light-patio,AI-generated,AI-generated,False,Extremely,Very much,Quite a lot,Very much,Very much
+ZSREG4,5,stimuli/experiment/guitar-vinaigrette.mp3,guitar-vinaigrette,AI-generated,AI-generated,False,Moderately,Moderately,Moderately,Moderately,Quite a lot
+ZSREG4,6,stimuli/experiment/sun-through-blinds.mp3,sun-through-blinds,AI-generated,Human composed,True,Extremely,Extremely,Extremely,Very much,Extremely
